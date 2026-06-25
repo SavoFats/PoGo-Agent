@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "PoGo Event Tracker",
+    "slug": "pogo-event-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0f1320",
+    "plugins": ["expo-notifications"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.savofats.pogoagent"
+    },
+    "android": {
+      "package": "com.savofats.pogoagent",
+      "adaptiveIcon": {
+        "backgroundColor": "#0f1320",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
