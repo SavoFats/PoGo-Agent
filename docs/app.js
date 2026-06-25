@@ -63,7 +63,7 @@ const STATUS_LABEL = {
   ongoing: "In corso",
   upcoming: "Prossimo",
   past: "Passato",
-  lead: "Segnalazione",
+  lead: "Segnalazione locale",
   unknown: "Senza data",
 };
 

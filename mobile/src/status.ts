@@ -57,7 +57,7 @@ export const STATUS_LABEL: Record<EventStatus, string> = {
   ongoing: "In corso",
   upcoming: "Prossimo",
   past: "Passato",
-  lead: "Segnalazione",
+  lead: "Segnalazione locale",
   unknown: "Senza data",
 };
 
