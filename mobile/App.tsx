@@ -28,8 +28,8 @@ import { EventStatus, FilterKey, PogoEvent } from "./src/types";
 const FILTERS: { key: FilterKey; label: string }[] = [
   { key: "all", label: "Tutti" },
   { key: "soon", label: "In scadenza" },
-  { key: "in-game", label: "In-game" },
-  { key: "regional-lead", label: "Locali" },
+  { key: "in-game", label: "Calendario ufficiale" },
+  { key: "regional-lead", label: "Segnalazioni locali" },
 ];
 
 const STATUS_COLOR: Record<EventStatus, string> = {
