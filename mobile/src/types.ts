@@ -20,4 +20,5 @@ export type EventStatus =
   | "lead"
   | "unknown";
 
-export type FilterKey = "all" | "soon" | "in-game" | "regional-lead";
+export type StatusFilterKey = "all" | "ongoing" | "upcoming";
+export type LocationFilterKey = "global" | "local";

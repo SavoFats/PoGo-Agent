@@ -20,17 +20,22 @@ import { notifyAboutNewEvents } from "./src/notifications";
 import {
   computeStatus,
   formatCountdown,
-  matchesFilter,
+  matchesLocationFilter,
+  matchesStatusFilter,
   STATUS_LABEL,
   STATUS_ORDER,
 } from "./src/status";
-import { EventStatus, FilterKey, PogoEvent } from "./src/types";
+import { EventStatus, LocationFilterKey, PogoEvent, StatusFilterKey } from "./src/types";
 
-const FILTERS: { key: FilterKey; label: string }[] = [
+const STATUS_FILTERS: { key: StatusFilterKey; label: string }[] = [
   { key: "all", label: "Tutti" },
-  { key: "soon", label: "In scadenza" },
-  { key: "in-game", label: "Calendario ufficiale" },
-  { key: "regional-lead", label: "Segnalazioni locali" },
+  { key: "ongoing", label: "In corso" },
+  { key: "upcoming", label: "Prossimamente" },
+];
+
+const LOCATION_FILTERS: { key: LocationFilterKey; label: string }[] = [
+  { key: "global", label: "Globale" },
+  { key: "local", label: "Locale" },
 ];
 
 const STATUS_COLOR: Record<EventStatus, string> = {
@@ -47,7 +52,8 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [filter, setFilter] = useState<FilterKey>("all");
+  const [statusFilter, setStatusFilter] = useState<StatusFilterKey>("all");
+  const [locationFilter, setLocationFilter] = useState<LocationFilterKey[]>(["global", "local"]);
   const [search, setSearch] = useState("");
   const [now, setNow] = useState(() => new Date());
 
@@ -83,20 +89,27 @@ export default function App() {
     setRefreshing(false);
   }, [load]);
 
+  const toggleLocationFilter = useCallback((key: LocationFilterKey) => {
+    setLocationFilter((current) =>
+      current.includes(key) ? current.filter((k) => k !== key) : [...current, key]
+    );
+  }, []);
+
   const visibleEvents = useMemo(() => {
     const term = search.trim().toLowerCase();
     const decorated = events.map((event) => ({ event, status: computeStatus(event, now) }));
 
     const filtered = decorated.filter(({ event, status }) => {
       if (status === "past") return false;
-      if (!matchesFilter(status, filter)) return false;
+      if (!matchesStatusFilter(status, statusFilter)) return false;
+      if (!matchesLocationFilter(event.type, locationFilter)) return false;
       if (term && !event.title.toLowerCase().includes(term)) return false;
       return true;
     });
 
     filtered.sort((a, b) => STATUS_ORDER[a.status] - STATUS_ORDER[b.status]);
     return filtered;
-  }, [events, filter, search, now]);
+  }, [events, statusFilter, locationFilter, search, now]);
 
   return (
     <LinearGradient colors={["#eafff2", "#bdf0d6"]} style={styles.gradient}>
@@ -117,17 +130,32 @@ export default function App() {
         />
 
         <View style={styles.tabs}>
-          {FILTERS.map((f) => (
+          {STATUS_FILTERS.map((f) => (
             <Pressable
               key={f.key}
-              onPress={() => setFilter(f.key)}
-              style={[styles.tab, filter === f.key && styles.tabActive]}
+              onPress={() => setStatusFilter(f.key)}
+              style={[styles.tab, statusFilter === f.key && styles.tabActive]}
             >
-              <Text style={[styles.tabText, filter === f.key && styles.tabTextActive]}>
+              <Text style={[styles.tabText, statusFilter === f.key && styles.tabTextActive]}>
                 {f.label}
               </Text>
             </Pressable>
           ))}
+        </View>
+
+        <View style={styles.tabs}>
+          {LOCATION_FILTERS.map((f) => {
+            const active = locationFilter.includes(f.key);
+            return (
+              <Pressable
+                key={f.key}
+                onPress={() => toggleLocationFilter(f.key)}
+                style={[styles.tab, active && styles.tabActive]}
+              >
+                <Text style={[styles.tabText, active && styles.tabTextActive]}>{f.label}</Text>
+              </Pressable>
+            );
+          })}
         </View>
 
         {loading ? (

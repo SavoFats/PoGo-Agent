@@ -2,7 +2,8 @@ const DATA_URL = "data/events.json";
 const SOON_THRESHOLD_MS = 24 * 60 * 60 * 1000;
 
 let events = [];
-let activeFilter = "all";
+let statusFilter = "all";
+let locationFilter = new Set(["global", "local"]);
 let searchTerm = "";
 let showPast = false;
 
@@ -69,12 +70,16 @@ const STATUS_LABEL = {
 
 const STATUS_ORDER = { soon: 0, ongoing: 1, upcoming: 2, lead: 3, unknown: 4, past: 5 };
 
-function matchesFilter(status, filter) {
-  if (filter === "all") return status !== "past";
-  if (filter === "soon") return status === "soon";
-  if (filter === "in-game") return status !== "lead" && status !== "past";
-  if (filter === "regional-lead") return status === "lead";
+function matchesStatusFilter(status, filter) {
+  if (filter === "all") return true;
+  if (filter === "ongoing") return status === "ongoing" || status === "soon";
+  if (filter === "upcoming") return status === "upcoming";
   return true;
+}
+
+function matchesLocationFilter(eventType, locations) {
+  const key = eventType === "regional-lead" ? "local" : "global";
+  return locations.has(key);
 }
 
 function render() {
@@ -87,8 +92,12 @@ function render() {
   }));
 
   let visible = decorated.filter(({ event, status }) => {
-    if (status === "past" && !showPast) return false;
-    if (!matchesFilter(status, activeFilter)) return false;
+    if (status === "past") {
+      if (!showPast) return false;
+    } else if (!matchesStatusFilter(status, statusFilter)) {
+      return false;
+    }
+    if (!matchesLocationFilter(event.type, locationFilter)) return false;
     if (term && !event.title.toLowerCase().includes(term)) return false;
     return true;
   });
@@ -190,11 +199,24 @@ document.getElementById("show-past").addEventListener("change", (e) => {
   render();
 });
 
-document.querySelectorAll(".tab").forEach((btn) => {
+document.querySelectorAll("#status-tabs .tab").forEach((btn) => {
   btn.addEventListener("click", () => {
-    document.querySelectorAll(".tab").forEach((b) => b.classList.remove("active"));
+    document.querySelectorAll("#status-tabs .tab").forEach((b) => b.classList.remove("active"));
     btn.classList.add("active");
-    activeFilter = btn.dataset.filter;
+    statusFilter = btn.dataset.status;
+    render();
+  });
+});
+
+document.querySelectorAll("#location-tabs .tab").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const loc = btn.dataset.location;
+    if (locationFilter.has(loc)) {
+      locationFilter.delete(loc);
+    } else {
+      locationFilter.add(loc);
+    }
+    btn.classList.toggle("active");
     render();
   });
 });
