@@ -20,11 +20,14 @@
 
   <section class="controls">
     <input id="search" type="search" placeholder="Cerca un evento..." aria-label="Cerca evento">
-    <div class="tabs" id="tabs" role="tablist">
-      <button class="tab active" data-filter="all">Tutti</button>
-      <button class="tab" data-filter="soon">In scadenza</button>
-      <button class="tab" data-filter="in-game">Calendario ufficiale</button>
-      <button class="tab" data-filter="regional-lead">Segnalazioni locali</button>
+    <div class="tabs" id="status-tabs" role="tablist">
+      <button class="tab active" data-status="all">Tutti</button>
+      <button class="tab" data-status="ongoing">In corso</button>
+      <button class="tab" data-status="upcoming">Prossimamente</button>
+    </div>
+    <div class="tabs" id="location-tabs" role="group" aria-label="Filtra per provenienza">
+      <button class="tab active" data-location="global">Globale</button>
+      <button class="tab active" data-location="local">Locale</button>
     </div>
     <label class="toggle">
       <input type="checkbox" id="show-past">

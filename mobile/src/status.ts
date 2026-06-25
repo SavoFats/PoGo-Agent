@@ -1,4 +1,4 @@
-import { EventStatus, FilterKey, PogoEvent } from "./types";
+import { EventStatus, EventType, LocationFilterKey, PogoEvent, StatusFilterKey } from "./types";
 
 const SOON_THRESHOLD_MS = 24 * 60 * 60 * 1000;
 
@@ -70,10 +70,14 @@ export const STATUS_ORDER: Record<EventStatus, number> = {
   past: 5,
 };
 
-export function matchesFilter(status: EventStatus, filter: FilterKey): boolean {
-  if (filter === "all") return status !== "past";
-  if (filter === "soon") return status === "soon";
-  if (filter === "in-game") return status !== "lead" && status !== "past";
-  if (filter === "regional-lead") return status === "lead";
+export function matchesStatusFilter(status: EventStatus, filter: StatusFilterKey): boolean {
+  if (filter === "all") return true;
+  if (filter === "ongoing") return status === "ongoing" || status === "soon";
+  if (filter === "upcoming") return status === "upcoming";
   return true;
+}
+
+export function matchesLocationFilter(eventType: EventType, locations: LocationFilterKey[]): boolean {
+  const key: LocationFilterKey = eventType === "regional-lead" ? "local" : "global";
+  return locations.includes(key);
 }
