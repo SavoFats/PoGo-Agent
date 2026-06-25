@@ -13,6 +13,7 @@ import {
   TextInput,
   View,
 } from "react-native";
+import { LinearGradient } from "expo-linear-gradient";
 
 import { fetchEvents } from "./src/api";
 import { notifyAboutNewEvents } from "./src/notifications";
@@ -33,12 +34,12 @@ const FILTERS: { key: FilterKey; label: string }[] = [
 ];
 
 const STATUS_COLOR: Record<EventStatus, string> = {
-  soon: "#ff5a5f",
-  ongoing: "#3ddc97",
-  upcoming: "#5b8cff",
-  lead: "#ffb84d",
-  unknown: "#9aa1bd",
-  past: "#9aa1bd",
+  soon: "#ee1515",
+  ongoing: "#1fa451",
+  upcoming: "#2f8fdb",
+  lead: "#f0a020",
+  unknown: "#4c8a76",
+  past: "#4c8a76",
 };
 
 export default function App() {
@@ -98,81 +99,91 @@ export default function App() {
   }, [events, filter, search, now]);
 
   return (
-    <SafeAreaView style={styles.safe}>
-      <StatusBar barStyle="light-content" />
-      <View style={styles.header}>
-        <View style={styles.logoDot} />
-        <Text style={styles.title}>PoGo Event Tracker</Text>
-      </View>
-      <Text style={styles.subtitle}>Eventi globali e locali, sempre aggiornati.</Text>
+    <LinearGradient colors={["#eafff2", "#bdf0d6"]} style={styles.gradient}>
+      <SafeAreaView style={styles.safe}>
+        <StatusBar barStyle="dark-content" />
+        <View style={styles.header}>
+          <View style={styles.logoDot} />
+          <Text style={styles.title}>PoGo Event Tracker</Text>
+        </View>
+        <Text style={styles.subtitle}>Eventi globali e locali, sempre aggiornati.</Text>
 
-      <TextInput
-        style={styles.search}
-        placeholder="Cerca un evento..."
-        placeholderTextColor="#9aa1bd"
-        value={search}
-        onChangeText={setSearch}
-      />
-
-      <View style={styles.tabs}>
-        {FILTERS.map((f) => (
-          <Pressable
-            key={f.key}
-            onPress={() => setFilter(f.key)}
-            style={[styles.tab, filter === f.key && styles.tabActive]}
-          >
-            <Text style={[styles.tabText, filter === f.key && styles.tabTextActive]}>
-              {f.label}
-            </Text>
-          </Pressable>
-        ))}
-      </View>
-
-      {loading ? (
-        <ActivityIndicator style={styles.loader} color="#ff5a5f" />
-      ) : error ? (
-        <Text style={styles.error}>Errore nel caricamento: {error}</Text>
-      ) : (
-        <FlatList
-          data={visibleEvents}
-          keyExtractor={({ event }) => `${event.source}|${event.id}`}
-          contentContainerStyle={styles.listContent}
-          refreshControl={<RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor="#ff5a5f" />}
-          ListEmptyComponent={<Text style={styles.empty}>Nessun evento trovato.</Text>}
-          renderItem={({ item: { event, status } }) => (
-            <Pressable style={styles.card} onPress={() => Linking.openURL(event.url)}>
-              <View style={[styles.badge, { backgroundColor: `${STATUS_COLOR[status]}26` }]}>
-                <Text style={[styles.badgeText, { color: STATUS_COLOR[status] }]}>
-                  {STATUS_LABEL[status]}
-                </Text>
-              </View>
-              <Text style={styles.cardTitle}>{event.title}</Text>
-              <Text style={styles.cardMeta}>
-                {event.source} · {event.location === "global" ? "Globale" : event.location}
-              </Text>
-              <Text style={styles.countdown}>{formatCountdown(event, now)}</Text>
-            </Pressable>
-          )}
+        <TextInput
+          style={styles.search}
+          placeholder="Cerca un evento..."
+          placeholderTextColor="#4c8a76"
+          value={search}
+          onChangeText={setSearch}
         />
-      )}
-    </SafeAreaView>
+
+        <View style={styles.tabs}>
+          {FILTERS.map((f) => (
+            <Pressable
+              key={f.key}
+              onPress={() => setFilter(f.key)}
+              style={[styles.tab, filter === f.key && styles.tabActive]}
+            >
+              <Text style={[styles.tabText, filter === f.key && styles.tabTextActive]}>
+                {f.label}
+              </Text>
+            </Pressable>
+          ))}
+        </View>
+
+        {loading ? (
+          <ActivityIndicator style={styles.loader} color="#ee1515" />
+        ) : error ? (
+          <Text style={styles.error}>Errore nel caricamento: {error}</Text>
+        ) : (
+          <FlatList
+            data={visibleEvents}
+            keyExtractor={({ event }) => `${event.source}|${event.id}`}
+            contentContainerStyle={styles.listContent}
+            refreshControl={<RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor="#ee1515" />}
+            ListEmptyComponent={<Text style={styles.empty}>Nessun evento trovato.</Text>}
+            renderItem={({ item: { event, status } }) => (
+              <Pressable style={styles.card} onPress={() => Linking.openURL(event.url)}>
+                <View style={[styles.badge, { backgroundColor: `${STATUS_COLOR[status]}1f` }]}>
+                  <Text style={[styles.badgeText, { color: STATUS_COLOR[status] }]}>
+                    {STATUS_LABEL[status]}
+                  </Text>
+                </View>
+                <Text style={styles.cardTitle}>{event.title}</Text>
+                <Text style={styles.cardMeta}>
+                  {event.source} · {event.location === "global" ? "Globale" : event.location}
+                </Text>
+                <Text style={styles.countdown}>{formatCountdown(event, now)}</Text>
+              </Pressable>
+            )}
+          />
+        )}
+      </SafeAreaView>
+    </LinearGradient>
   );
 }
 
 const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: "#0f1320" },
+  gradient: { flex: 1 },
+  safe: { flex: 1, backgroundColor: "transparent" },
   header: { flexDirection: "row", alignItems: "center", paddingHorizontal: 16, paddingTop: 8, gap: 8 },
-  logoDot: { width: 10, height: 10, borderRadius: 5, backgroundColor: "#ff5a5f" },
-  title: { color: "#eef0f8", fontSize: 22, fontWeight: "700" },
-  subtitle: { color: "#9aa1bd", paddingHorizontal: 16, marginTop: 4, marginBottom: 12 },
+  logoDot: {
+    width: 22,
+    height: 22,
+    borderRadius: 11,
+    backgroundColor: "#ee1515",
+    borderWidth: 2,
+    borderColor: "#1a1a1a",
+  },
+  title: { color: "#0a5c45", fontSize: 22, fontWeight: "800" },
+  subtitle: { color: "#4c8a76", fontWeight: "600", paddingHorizontal: 16, marginTop: 4, marginBottom: 12 },
   search: {
     marginHorizontal: 16,
-    backgroundColor: "#171c2e",
-    borderColor: "#272d44",
+    backgroundColor: "#ffffff",
+    borderColor: "#d3eedd",
     borderWidth: 1,
-    borderRadius: 10,
-    color: "#eef0f8",
-    paddingHorizontal: 14,
+    borderRadius: 999,
+    color: "#0a5c45",
+    paddingHorizontal: 16,
     paddingVertical: 10,
     marginBottom: 12,
   },
@@ -181,29 +192,34 @@ const styles = StyleSheet.create({
     paddingHorizontal: 14,
     paddingVertical: 8,
     borderRadius: 999,
-    backgroundColor: "#171c2e",
-    borderColor: "#272d44",
+    backgroundColor: "#ffffff",
+    borderColor: "#d3eedd",
     borderWidth: 1,
   },
-  tabActive: { backgroundColor: "#ff5a5f", borderColor: "#ff5a5f" },
-  tabText: { color: "#9aa1bd", fontSize: 13 },
-  tabTextActive: { color: "#1a0d0e", fontWeight: "700" },
+  tabActive: { backgroundColor: "#ee1515", borderColor: "#ee1515" },
+  tabText: { color: "#4c8a76", fontSize: 13, fontWeight: "700" },
+  tabTextActive: { color: "#ffffff", fontWeight: "800" },
   loader: { marginTop: 40 },
-  error: { color: "#ff5a5f", textAlign: "center", marginTop: 40, paddingHorizontal: 24 },
-  empty: { color: "#9aa1bd", textAlign: "center", marginTop: 40 },
+  error: { color: "#ee1515", textAlign: "center", marginTop: 40, paddingHorizontal: 24 },
+  empty: { color: "#4c8a76", textAlign: "center", marginTop: 40, fontWeight: "600" },
   listContent: { paddingHorizontal: 16, paddingBottom: 24, gap: 10 },
   card: {
-    backgroundColor: "#171c2e",
-    borderColor: "#272d44",
+    backgroundColor: "#ffffff",
+    borderColor: "#d3eedd",
     borderWidth: 1,
-    borderRadius: 14,
+    borderRadius: 18,
     padding: 14,
     gap: 6,
     marginBottom: 10,
+    shadowColor: "#0a5c45",
+    shadowOpacity: 0.12,
+    shadowRadius: 10,
+    shadowOffset: { width: 0, height: 3 },
+    elevation: 2,
   },
   badge: { alignSelf: "flex-start", paddingHorizontal: 10, paddingVertical: 4, borderRadius: 999 },
-  badgeText: { fontSize: 11, fontWeight: "700", textTransform: "uppercase" },
-  cardTitle: { color: "#eef0f8", fontSize: 16, fontWeight: "700" },
-  cardMeta: { color: "#9aa1bd", fontSize: 12 },
-  countdown: { color: "#eef0f8", fontSize: 13, fontWeight: "600" },
+  badgeText: { fontSize: 11, fontWeight: "800", textTransform: "uppercase" },
+  cardTitle: { color: "#0a5c45", fontSize: 16, fontWeight: "800" },
+  cardMeta: { color: "#4c8a76", fontSize: 12, fontWeight: "600" },
+  countdown: { color: "#0a5c45", fontSize: 13, fontWeight: "700" },
 });
