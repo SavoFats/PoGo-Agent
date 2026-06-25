@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PoGo Event Tracker</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1><span class="logo-dot"></span>PoGo Event Tracker</h1>
+    <p class="subtitle">Tutti gli eventi Pokémon GO, globali e locali, in un posto solo.</p>
+  </div>
+</header>
+
+<main>
+  <section class="stats" id="stats" aria-live="polite"></section>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="Cerca un evento..." aria-label="Cerca evento">
+    <div class="tabs" id="tabs" role="tablist">
+      <button class="tab active" data-filter="all">Tutti</button>
+      <button class="tab" data-filter="soon">In scadenza</button>
+      <button class="tab" data-filter="in-game">In-game</button>
+      <button class="tab" data-filter="regional-lead">Locali / regionali</button>
+    </div>
+    <label class="toggle">
+      <input type="checkbox" id="show-past">
+      Mostra anche i passati
+    </label>
+  </section>
+
+  <section id="grid" class="grid"></section>
+  <p id="empty" class="empty hidden">Nessun evento trovato con questi filtri.</p>
+</main>
+
+<footer>
+  <p>Dati aggiornati automaticamente ogni 3 ore · <span id="last-updated"></span></p>
+  <p><a href="https://github.com/SavoFats/PoGo-Agent" target="_blank" rel="noopener">Codice su GitHub</a></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

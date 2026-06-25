@@ -27,10 +27,15 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python scraper/main.py
 
+      - name: Sync dashboard data
+        run: |
+          mkdir -p docs/data
+          cp data/events.json docs/data/events.json
+
       - name: Commit updated events.json
         run: |
           git config user.name "pogo-agent-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json
+          git add data/events.json docs/data/events.json
           git diff --cached --quiet || git commit -m "Update events.json"
           git push
