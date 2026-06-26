@@ -636,5 +636,27 @@
     "location": "global",
     "url": "https://leekduck.com/events/example_event/",
     "first_seen": "2026-06-25T21:28:02.639376+00:00"
+  },
+  {
+    "id": "happy-birthday-professor-willow-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Happy Birthday, Professor Willow!",
+    "start": "2026-07-21T10:00:00.000",
+    "end": "2026-07-21T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
+    "first_seen": "2026-06-26T14:03:26.830940+00:00"
+  },
+  {
+    "id": "ozone-ascent-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Ozone Ascent",
+    "start": "2026-07-25T10:00:00.000",
+    "end": "2026-07-26T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/ozone-ascent-2026/",
+    "first_seen": "2026-06-26T14:03:26.830940+00:00"
   }
 ]
