@@ -1,5 +1,11 @@
 export type EventType = "in-game" | "regional-lead";
 
+export interface PogoPokemon {
+  name: string;
+  image: string | null;
+  shiny: boolean;
+}
+
 export interface PogoEvent {
   id: string;
   source: string;
@@ -10,6 +16,7 @@ export interface PogoEvent {
   location: string;
   url: string;
   first_seen: string;
+  pokemon?: PogoPokemon[];
 }
 
 export type EventStatus =

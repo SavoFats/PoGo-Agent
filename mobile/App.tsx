@@ -3,6 +3,7 @@ import {
   ActivityIndicator,
   AppState,
   FlatList,
+  Image,
   Linking,
   Pressable,
   RefreshControl,
@@ -103,7 +104,11 @@ export default function App() {
       if (status === "past") return false;
       if (!matchesStatusFilter(status, statusFilter)) return false;
       if (!matchesLocationFilter(event.type, locationFilter)) return false;
-      if (term && !event.title.toLowerCase().includes(term)) return false;
+      if (term) {
+        const titleMatch = event.title.toLowerCase().includes(term);
+        const pokemonMatch = (event.pokemon || []).some((p) => p.name?.toLowerCase().includes(term));
+        if (!titleMatch && !pokemonMatch) return false;
+      }
       return true;
     });
 
@@ -177,6 +182,16 @@ export default function App() {
                   </Text>
                 </View>
                 <Text style={styles.cardTitle}>{event.title}</Text>
+                {event.pokemon && event.pokemon.length > 0 && (
+                  <View style={styles.pokemonRow}>
+                    {event.pokemon.map((p, idx) => (
+                      <View key={`${p.name}-${idx}`} style={styles.pokemonChip}>
+                        {p.image && <Image source={{ uri: p.image }} style={styles.pokemonIcon} />}
+                        <Text style={styles.pokemonText}>{p.shiny ? `${p.name} ✨` : p.name}</Text>
+                      </View>
+                    ))}
+                  </View>
+                )}
                 <Text style={styles.cardMeta}>
                   {event.source} · {event.location === "global" ? "Globale" : event.location}
                 </Text>
@@ -248,6 +263,20 @@ const styles = StyleSheet.create({
   badge: { alignSelf: "flex-start", paddingHorizontal: 10, paddingVertical: 4, borderRadius: 999 },
   badgeText: { fontSize: 11, fontWeight: "800", textTransform: "uppercase" },
   cardTitle: { color: "#0a5c45", fontSize: 16, fontWeight: "800" },
+  pokemonRow: { flexDirection: "row", flexWrap: "wrap", gap: 6 },
+  pokemonChip: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 5,
+    backgroundColor: "#eafff2",
+    borderColor: "#d3eedd",
+    borderWidth: 1,
+    borderRadius: 999,
+    paddingVertical: 3,
+    paddingHorizontal: 8,
+  },
+  pokemonIcon: { width: 18, height: 18 },
+  pokemonText: { color: "#0a5c45", fontSize: 12, fontWeight: "700" },
   cardMeta: { color: "#4c8a76", fontSize: 12, fontWeight: "600" },
   countdown: { color: "#0a5c45", fontSize: 13, fontWeight: "700" },
 });
