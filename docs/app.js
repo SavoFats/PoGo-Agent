@@ -82,6 +82,11 @@ function matchesLocationFilter(eventType, locations) {
   return locations.has(key);
 }
 
+function matchesSearchTerm(event, term) {
+  if (event.title.toLowerCase().includes(term)) return true;
+  return (event.pokemon || []).some((p) => p.name && p.name.toLowerCase().includes(term));
+}
+
 function render() {
   const now = new Date();
   const term = searchTerm.trim().toLowerCase();
@@ -98,7 +103,7 @@ function render() {
       return false;
     }
     if (!matchesLocationFilter(event.type, locationFilter)) return false;
-    if (term && !event.title.toLowerCase().includes(term)) return false;
+    if (term && !matchesSearchTerm(event, term)) return false;
     return true;
   });
 
@@ -147,8 +152,39 @@ function renderCard(event, status, now) {
   link.className = "card-link";
   link.textContent = "Apri";
 
-  card.append(badge, title, meta, countdown, link);
+  card.append(badge, title);
+  const pokemonRow = renderPokemonRow(event.pokemon);
+  if (pokemonRow) card.append(pokemonRow);
+  card.append(meta, countdown, link);
   return card;
+}
+
+function renderPokemonRow(pokemonList) {
+  if (!pokemonList || !pokemonList.length) return null;
+
+  const row = document.createElement("div");
+  row.className = "pokemon-row";
+
+  for (const p of pokemonList) {
+    const chip = document.createElement("span");
+    chip.className = "pokemon-chip";
+
+    if (p.image) {
+      const img = document.createElement("img");
+      img.src = p.image;
+      img.alt = p.name;
+      img.className = "pokemon-icon";
+      chip.appendChild(img);
+    }
+
+    const label = document.createElement("span");
+    label.textContent = p.shiny ? `${p.name} ✨` : p.name;
+    chip.appendChild(label);
+
+    row.appendChild(chip);
+  }
+
+  return row;
 }
 
 function renderStats(decorated) {
