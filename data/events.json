@@ -119,18 +119,6 @@
     "first_seen": "2026-06-25T21:28:02.639376+00:00"
   },
   {
-    "id": "raidhour20260701",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Articuno, Zapdos, and Moltres Raid Hour",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/raidhour20260701/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-07-02",
     "source": "leekduck",
     "type": "in-game",
