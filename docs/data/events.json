@@ -1,23 +1,5 @@
 [
   {
-    "id": "pokemonspotlighthour2026-06-25",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Wingull Spotlight Hour",
-    "start": "2026-06-25T18:00:00.000",
-    "end": "2026-06-25T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-06-25/",
-    "pokemon": [
-      {
-        "name": "Wingull",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "skarmory-super-mega-raid-day-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -871,8 +853,8 @@
     "source": "leekduck",
     "type": "in-game",
     "title": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
-    "start": "2026-07-09T22:30:00.000Z",
-    "end": "2026-07-10T01:30:00.000Z",
+    "start": "2026-07-09T07:00:00.000Z",
+    "end": "2026-07-12T06:58:00.000Z",
     "location": "global",
     "url": "https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twitch-drops/",
     "pokemon": [],
