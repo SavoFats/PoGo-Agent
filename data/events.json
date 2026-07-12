@@ -835,5 +835,17 @@
     "url": "https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twitch-drops/",
     "pokemon": [],
     "first_seen": "2026-07-07T06:36:59.026016+00:00"
+  },
+  {
+    "id": "water-festival-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Water Festival",
+    "start": "2026-08-18T10:00:00.000",
+    "end": "2026-08-24T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/water-festival-2026/",
+    "pokemon": [],
+    "first_seen": "2026-07-12T05:47:46.429041+00:00"
   }
 ]
