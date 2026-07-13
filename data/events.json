@@ -1,41 +1,5 @@
 [
   {
-    "id": "flying-taxi-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Flying Taxi",
-    "start": "2026-06-23T10:00:00.000",
-    "end": "2026-06-29T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/flying-taxi-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "flying-taxi-taken-over-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Flying Taxi: Taken Over",
-    "start": "2026-06-25T00:00:00.000",
-    "end": "2026-06-29T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "max-mondays-2026-06-29",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Pidove during Max Monday",
-    "start": "2026-06-29T06:00:00.000",
-    "end": "2026-06-29T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-06-29/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "gbl-forever-forward_great-league_ultra-league_master-league-split-1",
     "source": "leekduck",
     "type": "in-game",
@@ -840,7 +804,7 @@
     "id": "water-festival-2026",
     "source": "leekduck",
     "type": "in-game",
-    "title": "Water Festival",
+    "title": "Ultra Unlock: Water Festival",
     "start": "2026-08-18T10:00:00.000",
     "end": "2026-08-24T20:00:00.000",
     "location": "global",
