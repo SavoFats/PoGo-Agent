@@ -823,5 +823,17 @@
     "url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
     "pokemon": [],
     "first_seen": "2026-07-13T19:12:10.164275+00:00"
+  },
+  {
+    "id": "starmie-super-mega-raid-day-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Starmie Super Mega Raid Day",
+    "start": "2026-08-22T11:00:00.000",
+    "end": "2026-08-22T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
+    "pokemon": [],
+    "first_seen": "2026-07-14T19:02:29.404503+00:00"
   }
 ]
