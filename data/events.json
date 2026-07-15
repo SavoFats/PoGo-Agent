@@ -1,23 +1,5 @@
 [
   {
-    "id": "mega-pidgeot-in-mega-raids-june-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Pidgeot in Mega Raids",
-    "start": "2026-06-24T06:00:00.000",
-    "end": "2026-07-01T06:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Pidgeot",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_018_51.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-07-02",
     "source": "leekduck",
     "type": "in-game",
