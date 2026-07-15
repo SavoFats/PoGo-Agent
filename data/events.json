@@ -776,5 +776,17 @@
     "url": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
     "pokemon": [],
     "first_seen": "2026-07-14T21:47:33.929414+00:00"
+  },
+  {
+    "id": "pokemon-go-fest-2026-global-sunday-raid-makeup",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "GO Fest 2026 Sunday Raid Makeup",
+    "start": "2026-07-26T10:00:00.000",
+    "end": "2026-07-26T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/",
+    "pokemon": [],
+    "first_seen": "2026-07-15T10:42:11.470203+00:00"
   }
 ]
