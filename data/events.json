@@ -788,5 +788,17 @@
     "url": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/",
     "pokemon": [],
     "first_seen": "2026-07-15T10:42:11.470203+00:00"
+  },
+  {
+    "id": "summer-marathon-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Summer Marathon: Arctic Embers",
+    "start": "2026-08-04T10:00:00.000",
+    "end": "2026-08-10T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/summer-marathon-2026/",
+    "pokemon": [],
+    "first_seen": "2026-07-15T18:55:21.838187+00:00"
   }
 ]
