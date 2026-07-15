@@ -1,46 +1,5 @@
 [
   {
-    "id": "shadow-dialga-in-shadow-raids-june-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Shadow Dialga in Shadow Raids",
-    "start": "2026-06-02T06:00:00.000",
-    "end": "2026-06-30T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/",
-    "pokemon": [
-      {
-        "name": "Dialga",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "celesteela-kartana-in-5-star-raid-battles-june-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Celesteela and Kartana in 5-star Raid Battles",
-    "start": "2026-06-24T06:00:00.000",
-    "end": "2026-06-30T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-june-2026/",
-    "pokemon": [
-      {
-        "name": "Celesteela",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm797.icon.png",
-        "shiny": true
-      },
-      {
-        "name": "Kartana",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm798.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "mega-pidgeot-in-mega-raids-june-2026",
     "source": "leekduck",
     "type": "in-game",
