@@ -1,23 +1,5 @@
 [
   {
-    "id": "pokemonspotlighthour2026-07-02",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pidgey Spotlight Hour",
-    "start": "2026-07-02T18:00:00.000",
-    "end": "2026-07-02T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-07-02/",
-    "pokemon": [
-      {
-        "name": "Pidgey",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "choose-your-path-charged-embers-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -812,5 +794,29 @@
     "url": "https://www.reddit.com/r/TheSilphRoad/comments/1uy0xnz/pokémon_go_fans_react_in_disgust_as_players/",
     "pokemon": [],
     "first_seen": "2026-07-16T13:20:59.166826+00:00"
+  },
+  {
+    "id": "fire-and-ice-hatch-day-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Fire and Ice Hatch Day",
+    "start": "2026-08-08T11:00:00.000",
+    "end": "2026-08-08T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
+    "pokemon": [],
+    "first_seen": "2026-07-16T21:55:59.315574+00:00"
+  },
+  {
+    "id": "t3_1uyegcr",
+    "source": "reddit/r/pokemongo",
+    "type": "regional-lead",
+    "title": "The atrocity I committed in 2018",
+    "start": null,
+    "end": null,
+    "location": "unknown (check link)",
+    "url": "https://www.reddit.com/r/pokemongo/comments/1uyegcr/the_atrocity_i_committed_in_2018/",
+    "pokemon": [],
+    "first_seen": "2026-07-16T21:55:59.315574+00:00"
   }
 ]
