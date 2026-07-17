@@ -1,17 +1,5 @@
 [
   {
-    "id": "choose-your-path-charged-embers-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Choose Your Path: Charged Embers",
-    "start": "2026-06-30T10:00:00.000",
-    "end": "2026-07-03T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/choose-your-path-charged-embers-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "july-communityday2026",
     "source": "leekduck",
     "type": "in-game",
