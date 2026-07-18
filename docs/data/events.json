@@ -1,23 +1,5 @@
 [
   {
-    "id": "july-communityday2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Sobble Community Day",
-    "start": "2026-07-04T14:00:00.000",
-    "end": "2026-07-04T17:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/july-communityday2026/",
-    "pokemon": [
-      {
-        "name": "Sobble",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
-        "shiny": false
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "articuno-zapdos-moltres-in-5-star-raid-battles-july-2026",
     "source": "leekduck",
     "type": "in-game",
