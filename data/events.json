@@ -1,29 +1,5 @@
 [
   {
-    "id": "10th-anniversary-party",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "10th Anniversary Party",
-    "start": "2026-07-04T10:00:00.000",
-    "end": "2026-07-06T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/10th-anniversary-party/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "max-mondays-2026-07-06",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Chansey during Max Monday",
-    "start": "2026-07-06T06:00:00.000",
-    "end": "2026-07-06T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-07-06/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "go-pass-june-2026",
     "source": "leekduck",
     "type": "in-game",
