@@ -1,51 +1,5 @@
 [
   {
-    "id": "articuno-zapdos-moltres-in-5-star-raid-battles-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
-    "start": "2026-07-01T06:00:00.000",
-    "end": "2026-07-05T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-july-2026/",
-    "pokemon": [
-      {
-        "name": "Articuno",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png",
-        "shiny": true
-      },
-      {
-        "name": "Zapdos",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png",
-        "shiny": true
-      },
-      {
-        "name": "Moltres",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "mega-lucario-in-mega-raids-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Lucario in Mega Raids",
-    "start": "2026-07-01T06:00:00.000",
-    "end": "2026-07-05T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Lucario",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "10th-anniversary-party",
     "source": "leekduck",
     "type": "in-game",
