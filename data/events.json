@@ -1,17 +1,5 @@
 [
   {
-    "id": "gbl-forever-forward_great-league_summer-cup-great-league-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Great League and Summer Cup: Great League Edition | Forever Forward",
-    "start": "2026-06-30T20:00:00.000Z",
-    "end": "2026-07-07T20:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-forever-forward_great-league_summer-cup-great-league-edition/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "road-of-legends-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -718,5 +706,17 @@
     "url": "https://www.reddit.com/r/TheSilphRoad/comments/1uz523i/japanexclusive_mcdonald_event/",
     "pokemon": [],
     "first_seen": "2026-07-18T01:28:59.601014+00:00"
+  },
+  {
+    "id": "go-pass-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "GO Pass: August",
+    "start": "2026-08-04T10:00:00.000",
+    "end": "2026-09-08T10:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/go-pass-august-2026/",
+    "pokemon": [],
+    "first_seen": "2026-07-21T21:55:21.176251+00:00"
   }
 ]
