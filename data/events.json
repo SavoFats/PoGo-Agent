@@ -718,5 +718,319 @@
     "url": "https://leekduck.com/events/go-pass-august-2026/",
     "pokemon": [],
     "first_seen": "2026-07-21T21:55:21.176251+00:00"
+  },
+  {
+    "id": "max-mondays-2026-08-03",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Magmar during Max Monday",
+    "start": "2026-08-03T06:00:00.000",
+    "end": "2026-08-03T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-08-03/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "raidhour20260805",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Uxie, Mesprit, and Azelf Raid Hour",
+    "start": "2026-08-05T18:00:00.000",
+    "end": "2026-08-05T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20260805/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "max-mondays-2026-08-10",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Beldum during Max Monday",
+    "start": "2026-08-10T06:00:00.000",
+    "end": "2026-08-10T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-08-10/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "mega-blaziken-in-mega-raids-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Blaziken in Mega Raids",
+    "start": "2026-08-05T06:00:00.000",
+    "end": "2026-08-11T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-blaziken-in-mega-raids-august-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Blaziken",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "uxie-mesprit-azelf-in-5-star-raid-battles-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
+    "start": "2026-08-05T06:00:00.000",
+    "end": "2026-08-11T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/",
+    "pokemon": [
+      {
+        "name": "Uxie",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Mesprit",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Azelf",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "raidhour20260812",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Groudon Raid Hour",
+    "start": "2026-08-12T18:00:00.000",
+    "end": "2026-08-12T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20260812/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "max-mondays-2026-08-17",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Magikarp during Max Monday",
+    "start": "2026-08-17T06:00:00.000",
+    "end": "2026-08-17T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-08-17/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "groudon-in-5-star-raid-battles-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Groudon in 5-star Raid Battles",
+    "start": "2026-08-12T06:00:00.000",
+    "end": "2026-08-18T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
+    "pokemon": [
+      {
+        "name": "Groudon",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "mega-garchomp-in-mega-raids-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Garchomp in Mega Raids",
+    "start": "2026-08-12T06:00:00.000",
+    "end": "2026-08-18T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Garchomp",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "raidhour20260819",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Lunala Raid Hour",
+    "start": "2026-08-19T18:00:00.000",
+    "end": "2026-08-19T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20260819/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "max-mondays-2026-08-24",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Hitmontop during Max Monday",
+    "start": "2026-08-24T06:00:00.000",
+    "end": "2026-08-24T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-08-24/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "lunala-in-5-star-raid-battles-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Lunala in 5-star Raid Battles",
+    "start": "2026-08-19T06:00:00.000",
+    "end": "2026-08-25T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
+    "pokemon": [
+      {
+        "name": "Lunala",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "mega-swampert-in-mega-raids-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Swampert in Mega Raids",
+    "start": "2026-08-19T06:00:00.000",
+    "end": "2026-08-25T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Swampert",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "raidhour20260826",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Regirock, Regice, and Registeel Raid Hour",
+    "start": "2026-08-26T18:00:00.000",
+    "end": "2026-08-26T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20260826/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "pokemon-xp-2026-worlds",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon XP &amp; 2026 Worlds",
+    "start": "2026-08-25T10:00:00.000",
+    "end": "2026-08-30T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "max-mondays-2026-08-31",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Eevee during Max Monday",
+    "start": "2026-08-31T06:00:00.000",
+    "end": "2026-08-31T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-08-31/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "raidhour20260902",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Regirock, Regice, and Registeel Raid Hour",
+    "start": "2026-09-02T18:00:00.000",
+    "end": "2026-09-02T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20260902/",
+    "pokemon": [],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "shadow-giratina-altered-in-shadow-raids-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Shadow Giratina (Altered Forme) in Shadow Raids",
+    "start": "2026-08-05T06:00:00.000",
+    "end": "2026-09-08T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
+    "pokemon": [
+      {
+        "name": "Giratina (Altered)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "mega-gyarados-in-mega-raids-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Gyarados in Mega Raids",
+    "start": "2026-08-26T06:00:00.000",
+    "end": "2026-09-08T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Gyarados",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "regirock-regice-registeel-in-5-star-raid-battles-august-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
+    "start": "2026-08-26T06:00:00.000",
+    "end": "2026-09-08T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
+    "pokemon": [
+      {
+        "name": "Regirock",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Regice",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Registeel",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-07-22T21:57:17.745387+00:00"
   }
 ]
