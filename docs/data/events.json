@@ -1032,5 +1032,41 @@
       }
     ],
     "first_seen": "2026-07-22T21:57:17.745387+00:00"
+  },
+  {
+    "id": "t3_1v3w5rf",
+    "source": "reddit/r/TheSilphRoad",
+    "type": "regional-lead",
+    "title": "New Pokémon/CP background opacity in 421",
+    "start": null,
+    "end": null,
+    "location": "unknown (check link)",
+    "url": "https://www.reddit.com/r/TheSilphRoad/comments/1v3w5rf/new_pokémoncp_background_opacity_in_421/",
+    "pokemon": [],
+    "first_seen": "2026-07-23T08:11:59.330727+00:00"
+  },
+  {
+    "id": "t3_1v3ofwr",
+    "source": "reddit/r/TheSilphRoad",
+    "type": "regional-lead",
+    "title": "Shoreditch, London Regional Event",
+    "start": null,
+    "end": null,
+    "location": "unknown (check link)",
+    "url": "https://www.reddit.com/r/TheSilphRoad/comments/1v3ofwr/shoreditch_london_regional_event/",
+    "pokemon": [],
+    "first_seen": "2026-07-23T08:11:59.330727+00:00"
+  },
+  {
+    "id": "t3_1v2v9lr",
+    "source": "reddit/r/TheSilphRoad",
+    "type": "regional-lead",
+    "title": "What is this Celestial Scales timed research box in the Pokemon go web store?",
+    "start": null,
+    "end": null,
+    "location": "unknown (check link)",
+    "url": "https://www.reddit.com/r/TheSilphRoad/comments/1v2v9lr/what_is_this_celestial_scales_timed_research_box/",
+    "pokemon": [],
+    "first_seen": "2026-07-23T08:11:59.330727+00:00"
   }
 ]
