@@ -1,17 +1,5 @@
 [
   {
-    "id": "road-of-legends-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Road of Legends",
-    "start": "2026-07-06T00:01:00.000",
-    "end": "2026-07-10T23:59:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/road-of-legends-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "pokemon-go-fest-2026-global",
     "source": "leekduck",
     "type": "in-game",
