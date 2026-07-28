@@ -1020,5 +1020,17 @@
     "url": "https://www.reddit.com/r/TheSilphRoad/comments/1v2v9lr/what_is_this_celestial_scales_timed_research_box/",
     "pokemon": [],
     "first_seen": "2026-07-23T08:11:59.330727+00:00"
+  },
+  {
+    "id": "pokemon-go-fest-2026-mega-finale",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon GO Fest 2026: Mega Finale",
+    "start": "2026-09-05T10:00:00.000",
+    "end": "2026-09-06T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
+    "pokemon": [],
+    "first_seen": "2026-07-28T19:07:43.363838+00:00"
   }
 ]
