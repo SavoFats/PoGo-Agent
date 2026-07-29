@@ -1,23 +1,5 @@
 [
   {
-    "id": "mega-lucario-in-mega-raids-july-13-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Lucario in Mega Raids - July 13",
-    "start": "2026-07-13T06:00:00.000",
-    "end": "2026-07-14T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-13-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Lucario",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "raidhour20260715",
     "source": "leekduck",
     "type": "in-game",
