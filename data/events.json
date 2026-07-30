@@ -1,23 +1,5 @@
 [
   {
-    "id": "pokemonspotlighthour2026-07-16",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Zubat Spotlight Hour",
-    "start": "2026-07-16T18:00:00.000",
-    "end": "2026-07-16T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-07-16/",
-    "pokemon": [
-      {
-        "name": "Zubat",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_041_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "raichu-super-mega-raid-day-2026",
     "source": "leekduck",
     "type": "in-game",
