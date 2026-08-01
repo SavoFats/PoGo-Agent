@@ -1,17 +1,5 @@
 [
   {
-    "id": "raichu-super-mega-raid-day-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Raichu Super Mega Raid Day",
-    "start": "2026-07-18T14:00:00.000",
-    "end": "2026-07-18T17:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "weekend-event-july-2026",
     "source": "leekduck",
     "type": "in-game",
