@@ -924,5 +924,89 @@
     "url": "https://www.reddit.com/r/TheSilphRoad/comments/1vaevzp/in_5_years_when_pokémon_like_palkia_and_solgaleo/",
     "pokemon": [],
     "first_seen": "2026-07-30T05:30:59.295127+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-08-06",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Delibird Spotlight Hour",
+    "start": "2026-08-06T18:00:00.000",
+    "end": "2026-08-06T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-08-06/",
+    "pokemon": [
+      {
+        "name": "Delibird",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-08-03T01:53:01.455278+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-08-13",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Wurmple Spotlight Hour",
+    "start": "2026-08-13T18:00:00.000",
+    "end": "2026-08-13T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-08-13/",
+    "pokemon": [
+      {
+        "name": "Wurmple",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-08-03T01:53:01.455278+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-08-20",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Magikarp Spotlight Hour",
+    "start": "2026-08-20T18:00:00.000",
+    "end": "2026-08-20T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-08-20/",
+    "pokemon": [
+      {
+        "name": "Magikarp",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-08-03T01:53:01.455278+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-08-27",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mankey Spotlight Hour",
+    "start": "2026-08-27T18:00:00.000",
+    "end": "2026-08-27T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
+    "pokemon": [
+      {
+        "name": "Mankey",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-08-03T01:53:01.455278+00:00"
+  },
+  {
+    "id": "lego-pokemon-go-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "LEGO Stores and Pokémon GO",
+    "start": "2026-08-03T10:00:00.000",
+    "end": "2026-09-30T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-03T01:53:01.455278+00:00"
   }
 ]
