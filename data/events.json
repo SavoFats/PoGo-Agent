@@ -1,29 +1,5 @@
 [
   {
-    "id": "special-anniversary-pikachu-celebration-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Special Anniversary Pikachu Celebration",
-    "start": "2026-07-13T10:00:00.000",
-    "end": "2026-07-20T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "max-mondays-2026-07-20",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Trubbish during Max Monday",
-    "start": "2026-07-20T06:00:00.000",
-    "end": "2026-07-20T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-07-20/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "gbl-forever-forward_master-league_retro-cup-great-league-edition",
     "source": "leekduck",
     "type": "in-game",
