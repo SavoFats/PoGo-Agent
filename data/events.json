@@ -1,53 +1,5 @@
 [
   {
-    "id": "gbl-forever-forward_master-league_retro-cup-great-league-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Master League and Retro Cup: Great League Edition | Forever Forward",
-    "start": "2026-07-14T20:00:00.000Z",
-    "end": "2026-07-21T20:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-forever-forward_master-league_retro-cup-great-league-edition/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "kyogre-in-5-star-raid-battles-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Kyogre in 5-star Raid Battles",
-    "start": "2026-07-15T06:00:00.000",
-    "end": "2026-07-21T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/",
-    "pokemon": [
-      {
-        "name": "Kyogre",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "mega-sceptile-in-mega-raids-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Sceptile in Mega Raids",
-    "start": "2026-07-15T06:00:00.000",
-    "end": "2026-07-21T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-july-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Sceptile",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "raidhour20260722",
     "source": "leekduck",
     "type": "in-game",
@@ -394,18 +346,6 @@
     "url": "https://leekduck.com/events/example_event/",
     "pokemon": [],
     "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "happy-birthday-professor-willow-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Happy Birthday, Professor Willow!",
-    "start": "2026-07-21T10:00:00.000",
-    "end": "2026-07-21T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-26T14:03:26.830940+00:00"
   },
   {
     "id": "ozone-ascent-2026",
