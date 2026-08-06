@@ -1,23 +1,5 @@
 [
   {
-    "id": "pokemonspotlighthour2026-07-23",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Eevee Spotlight Hour",
-    "start": "2026-07-23T18:00:00.000",
-    "end": "2026-07-23T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-07-23/",
-    "pokemon": [
-      {
-        "name": "Eevee",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "july-event-2026-july-21",
     "source": "leekduck",
     "type": "in-game",
