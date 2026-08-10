@@ -1,29 +1,5 @@
 [
   {
-    "id": "july-event-2026-july-21",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "July Event - July 21",
-    "start": "2026-07-21T10:00:00.000",
-    "end": "2026-07-27T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/july-event-2026-july-21/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "max-mondays-2026-07-27",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Feebas during Max Monday",
-    "start": "2026-07-27T06:00:00.000",
-    "end": "2026-07-27T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-07-27/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "gbl-forever-forward_great-league_ultra-league_master-league-split-2",
     "source": "leekduck",
     "type": "in-game",
@@ -340,18 +316,6 @@
     "url": "https://leekduck.com/events/water-festival-2026/",
     "pokemon": [],
     "first_seen": "2026-07-12T05:47:46.429041+00:00"
-  },
-  {
-    "id": "ultra-unlock-10th-anniversary-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Ultra Unlock: 10th Anniversary Edition",
-    "start": "2026-07-21T10:00:00.000",
-    "end": "2026-07-27T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
-    "pokemon": [],
-    "first_seen": "2026-07-13T19:12:10.164275+00:00"
   },
   {
     "id": "starmie-super-mega-raid-day-2026",
@@ -846,5 +810,125 @@
     "url": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
     "pokemon": [],
     "first_seen": "2026-08-05T19:14:31.974997+00:00"
+  },
+  {
+    "id": "september-communitydayclassic2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "September Community Day Classic",
+    "start": "2026-09-12T14:00:00.000",
+    "end": "2026-09-12T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/september-communitydayclassic2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "super-mega-raid-day-september-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Super Mega Raid Day",
+    "start": "2026-09-19T14:00:00.000",
+    "end": "2026-09-19T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "catch-mastery-september-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Catch Mastery",
+    "start": "2026-09-26T10:00:00.000",
+    "end": "2026-09-26T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/catch-mastery-september-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "max-battle-day-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Max Battle Day",
+    "start": "2026-10-03T14:00:00.000",
+    "end": "2026-10-03T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-battle-day-october-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "october-communityday2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "October Community Day",
+    "start": "2026-10-10T14:00:00.000",
+    "end": "2026-10-10T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/october-communityday2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "hatch-day-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Hatch Day",
+    "start": "2026-10-17T11:00:00.000",
+    "end": "2026-10-17T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/hatch-day-october-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "max-battle-day-october-24-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Max Battle Day",
+    "start": "2026-10-24T14:00:00.000",
+    "end": "2026-10-24T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-battle-day-october-24-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "super-mega-raid-day-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Super Mega Raid Day",
+    "start": "2026-10-31T14:00:00.000",
+    "end": "2026-10-31T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "november-communityday2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "November Community Day",
+    "start": "2026-11-21T14:00:00.000",
+    "end": "2026-11-21T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/november-communityday2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "super-mega-raid-day-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Super Mega Raid Day",
+    "start": "2026-11-28T14:00:00.000",
+    "end": "2026-11-28T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-10T21:31:58.651459+00:00"
   }
 ]
