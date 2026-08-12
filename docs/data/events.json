@@ -1,41 +1,5 @@
 [
   {
-    "id": "mega-salamence-in-mega-raids-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Salamence in Mega Raids",
-    "start": "2026-07-22T06:00:00.000",
-    "end": "2026-07-28T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-salamence-in-mega-raids-july-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Salamence",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "solgaleo-in-5-star-raid-battles-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Solgaleo in 5-star Raid Battles",
-    "start": "2026-07-22T06:00:00.000",
-    "end": "2026-07-28T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-july-2026/",
-    "pokemon": [
-      {
-        "name": "Solgaleo",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "raidhour20260729",
     "source": "leekduck",
     "type": "in-game",
@@ -685,7 +649,7 @@
     "type": "in-game",
     "title": "Pokémon GO Fest 2026: Mega Finale",
     "start": "2026-09-05T10:00:00.000",
-    "end": "2026-09-06T19:00:00.000",
+    "end": "2026-09-06T18:00:00.000",
     "location": "global",
     "url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
     "pokemon": [],
@@ -918,5 +882,17 @@
     "url": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
     "pokemon": [],
     "first_seen": "2026-08-10T21:31:58.651459+00:00"
+  },
+  {
+    "id": "mega-ascension",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Ascension",
+    "start": "2026-08-31T10:00:00.000",
+    "end": "2026-09-04T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-ascension/",
+    "pokemon": [],
+    "first_seen": "2026-08-12T01:05:06.613710+00:00"
   }
 ]
