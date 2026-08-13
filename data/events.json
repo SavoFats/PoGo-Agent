@@ -882,5 +882,17 @@
     "url": "https://leekduck.com/events/mega-ascension/",
     "pokemon": [],
     "first_seen": "2026-08-12T01:05:06.613710+00:00"
+  },
+  {
+    "id": "10th-anniversary-celebration",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+    "start": "2026-08-12T16:00:00.000",
+    "end": "2026-09-06T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/10th-anniversary-celebration/",
+    "pokemon": [],
+    "first_seen": "2026-08-13T01:06:33.327199+00:00"
   }
 ]
