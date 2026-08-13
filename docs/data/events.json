@@ -1,23 +1,5 @@
 [
   {
-    "id": "pokemonspotlighthour2026-07-30",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Bidoof Spotlight Hour",
-    "start": "2026-07-30T18:00:00.000",
-    "end": "2026-07-30T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
-    "pokemon": [
-      {
-        "name": "Bidoof",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_399_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "choose-your-path-fairy-trail-2026",
     "source": "leekduck",
     "type": "in-game",
