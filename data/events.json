@@ -1,59 +1,5 @@
 [
   {
-    "id": "shadow-palkia-in-shadow-raids-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Shadow Palkia in Shadow Raids",
-    "start": "2026-07-01T06:00:00.000",
-    "end": "2026-08-04T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/shadow-palkia-in-shadow-raids-july-2026/",
-    "pokemon": [
-      {
-        "name": "Palkia",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "kyurem-in-5-star-raid-battles-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Kyurem in 5-star Raid Battles",
-    "start": "2026-07-29T06:00:00.000",
-    "end": "2026-08-04T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-july-2026/",
-    "pokemon": [
-      {
-        "name": "Kyurem",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "mega-aggron-in-mega-raids-july-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Aggron in Mega Raids",
-    "start": "2026-07-29T06:00:00.000",
-    "end": "2026-08-04T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-aggron-in-mega-raids-july-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Aggron",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "hatch-day-august-2026",
     "source": "leekduck",
     "type": "in-game",
