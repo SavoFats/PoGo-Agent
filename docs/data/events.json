@@ -500,24 +500,6 @@
     "first_seen": "2026-07-28T19:07:43.363838+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-08-06",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Delibird Spotlight Hour",
-    "start": "2026-08-06T18:00:00.000",
-    "end": "2026-08-06T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-08-06/",
-    "pokemon": [
-      {
-        "name": "Delibird",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-03T01:53:01.455278+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-08-13",
     "source": "leekduck",
     "type": "in-game",
