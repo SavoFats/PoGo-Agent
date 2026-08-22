@@ -1,17 +1,5 @@
 [
   {
-    "id": "hatch-day-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Hatch Day",
-    "start": "2026-08-08T11:00:00.000",
-    "end": "2026-08-08T17:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/hatch-day-august-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "gbl-forever-forward_ultra-league_weather-cup-great-league-edition",
     "source": "leekduck",
     "type": "in-game",
@@ -172,18 +160,6 @@
     "url": "https://leekduck.com/events/summer-marathon-2026/",
     "pokemon": [],
     "first_seen": "2026-07-15T18:55:21.838187+00:00"
-  },
-  {
-    "id": "fire-and-ice-hatch-day-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Fire and Ice Hatch Day",
-    "start": "2026-08-08T11:00:00.000",
-    "end": "2026-08-08T17:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
-    "pokemon": [],
-    "first_seen": "2026-07-16T21:55:59.315574+00:00"
   },
   {
     "id": "go-pass-august-2026",
