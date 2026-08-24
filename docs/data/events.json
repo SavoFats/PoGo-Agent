@@ -150,18 +150,6 @@
     "first_seen": "2026-07-14T19:02:29.404503+00:00"
   },
   {
-    "id": "summer-marathon-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Summer Marathon: Arctic Embers",
-    "start": "2026-08-04T10:00:00.000",
-    "end": "2026-08-10T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/summer-marathon-2026/",
-    "pokemon": [],
-    "first_seen": "2026-07-15T18:55:21.838187+00:00"
-  },
-  {
     "id": "go-pass-august-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -172,18 +160,6 @@
     "url": "https://leekduck.com/events/go-pass-august-2026/",
     "pokemon": [],
     "first_seen": "2026-07-21T21:55:21.176251+00:00"
-  },
-  {
-    "id": "max-mondays-2026-08-10",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Beldum during Max Monday",
-    "start": "2026-08-10T06:00:00.000",
-    "end": "2026-08-10T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-08-10/",
-    "pokemon": [],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
   },
   {
     "id": "mega-blaziken-in-mega-raids-august-2026",
