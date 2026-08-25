@@ -672,5 +672,29 @@
     "url": "https://leekduck.com/events/10th-anniversary-celebration/",
     "pokemon": [],
     "first_seen": "2026-08-13T01:06:33.327199+00:00"
+  },
+  {
+    "id": "go-pass-september-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "GO Pass: September",
+    "start": "2026-09-08T10:00:00.000",
+    "end": "2026-10-06T10:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/go-pass-september-2026/",
+    "pokemon": [],
+    "first_seen": "2026-08-25T18:24:05.979883+00:00"
+  },
+  {
+    "id": "season-24-twilight-trails",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Twilight Trails",
+    "start": "2026-09-08T10:00:00.000",
+    "end": "2026-12-01T10:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/season-24-twilight-trails/",
+    "pokemon": [],
+    "first_seen": "2026-08-25T18:24:05.979883+00:00"
   }
 ]
