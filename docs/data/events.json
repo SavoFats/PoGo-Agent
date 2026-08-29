@@ -1023,5 +1023,17 @@
     "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
     "pokemon": [],
     "first_seen": "2026-08-28T14:42:40.330791+00:00"
+  },
+  {
+    "id": "pokemon-world-championships-2026-san-francisco",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "[San Francisco] 2026 Pokémon World Championships",
+    "start": "2026-08-28T17:00:00.000Z",
+    "end": "2026-08-31T03:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-world-championships-2026-san-francisco/",
+    "pokemon": [],
+    "first_seen": "2026-08-29T11:57:57.931904+00:00"
   }
 ]
