@@ -1,17 +1,5 @@
 [
   {
-    "id": "gbl-forever-forward_master-league_evolution-cup-great-league-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
-    "start": "2026-08-11T20:00:00.000Z",
-    "end": "2026-08-18T20:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "raid-day-august-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -118,42 +106,6 @@
     "url": "https://leekduck.com/events/go-pass-august-2026/",
     "pokemon": [],
     "first_seen": "2026-07-21T21:55:21.176251+00:00"
-  },
-  {
-    "id": "groudon-in-5-star-raid-battles-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Groudon in 5-star Raid Battles",
-    "start": "2026-08-12T06:00:00.000",
-    "end": "2026-08-18T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
-    "pokemon": [
-      {
-        "name": "Groudon",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
-  },
-  {
-    "id": "mega-garchomp-in-mega-raids-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Garchomp in Mega Raids",
-    "start": "2026-08-12T06:00:00.000",
-    "end": "2026-08-18T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Garchomp",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
   },
   {
     "id": "raidhour20260819",
@@ -1173,5 +1125,17 @@
     "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
     "pokemon": [],
     "first_seen": "2026-09-01T08:06:28.916067+00:00"
+  },
+  {
+    "id": "staraptor-super-mega-raid-day-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Staraptor Super Mega Raid Day",
+    "start": "2026-09-19T14:00:00.000",
+    "end": "2026-09-19T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-01T22:54:14.619438+00:00"
   }
 ]
