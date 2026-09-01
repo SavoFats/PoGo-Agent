@@ -1,17 +1,5 @@
 [
   {
-    "id": "choose-your-path-venom-and-vines-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Choose Your Path: Venom and Vines",
-    "start": "2026-08-11T10:00:00.000",
-    "end": "2026-08-17T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "gbl-forever-forward_master-league_evolution-cup-great-league-edition",
     "source": "leekduck",
     "type": "in-game",
@@ -130,18 +118,6 @@
     "url": "https://leekduck.com/events/go-pass-august-2026/",
     "pokemon": [],
     "first_seen": "2026-07-21T21:55:21.176251+00:00"
-  },
-  {
-    "id": "max-mondays-2026-08-17",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Magikarp during Max Monday",
-    "start": "2026-08-17T06:00:00.000",
-    "end": "2026-08-17T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-08-17/",
-    "pokemon": [],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
   },
   {
     "id": "groudon-in-5-star-raid-battles-august-2026",
@@ -427,12 +403,18 @@
     "id": "september-communitydayclassic2026",
     "source": "leekduck",
     "type": "in-game",
-    "title": "September Community Day Classic",
+    "title": "Gible Community Day Classic",
     "start": "2026-09-12T14:00:00.000",
     "end": "2026-09-12T17:00:00.000",
     "location": "global",
     "url": "https://leekduck.com/events/september-communitydayclassic2026/",
-    "pokemon": [],
+    "pokemon": [
+      {
+        "name": "Gible",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+        "shiny": false
+      }
+    ],
     "first_seen": "2026-08-10T21:31:58.651459+00:00"
   },
   {
@@ -1035,5 +1017,17 @@
       }
     ],
     "first_seen": "2026-08-31T09:03:43.320076+00:00"
+  },
+  {
+    "id": "mega-squads",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Squads",
+    "start": "2026-09-08T10:00:00.000",
+    "end": "2026-09-14T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-squads/",
+    "pokemon": [],
+    "first_seen": "2026-09-01T00:11:59.953347+00:00"
   }
 ]
