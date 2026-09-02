@@ -1137,5 +1137,17 @@
     "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
     "pokemon": [],
     "first_seen": "2026-09-01T22:54:14.619438+00:00"
+  },
+  {
+    "id": "pokemon-horizons-the-series-celebration-event-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon Horizons: The Series Celebration Event",
+    "start": "2026-09-16T10:00:00.000",
+    "end": "2026-09-22T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-02T18:13:52.760219+00:00"
   }
 ]
