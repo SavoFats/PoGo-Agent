@@ -280,24 +280,6 @@
     "first_seen": "2026-07-28T19:07:43.363838+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-08-20",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Magikarp Spotlight Hour",
-    "start": "2026-08-20T18:00:00.000",
-    "end": "2026-08-20T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-08-20/",
-    "pokemon": [
-      {
-        "name": "Magikarp",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-03T01:53:01.455278+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-08-27",
     "source": "leekduck",
     "type": "in-game",
