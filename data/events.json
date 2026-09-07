@@ -60,18 +60,6 @@
     "first_seen": "2026-06-25T21:28:02.639376+00:00"
   },
   {
-    "id": "water-festival-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Ultra Unlock: Water Festival",
-    "start": "2026-08-18T10:00:00.000",
-    "end": "2026-08-24T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/water-festival-2026/",
-    "pokemon": [],
-    "first_seen": "2026-07-12T05:47:46.429041+00:00"
-  },
-  {
     "id": "go-pass-august-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -82,18 +70,6 @@
     "url": "https://leekduck.com/events/go-pass-august-2026/",
     "pokemon": [],
     "first_seen": "2026-07-21T21:55:21.176251+00:00"
-  },
-  {
-    "id": "max-mondays-2026-08-24",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Hitmontop during Max Monday",
-    "start": "2026-08-24T06:00:00.000",
-    "end": "2026-08-24T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-08-24/",
-    "pokemon": [],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
   },
   {
     "id": "lunala-in-5-star-raid-battles-august-2026",
@@ -812,7 +788,7 @@
     "id": "harvest-festival-2026",
     "source": "leekduck",
     "type": "in-game",
-    "title": "Harvest Festival",
+    "title": "Harvest Festival 2026: Applin Picking",
     "start": "2026-09-29T10:00:00.000",
     "end": "2026-10-05T20:00:00.000",
     "location": "global",
@@ -1107,5 +1083,17 @@
     "url": "https://www.reddit.com/r/pokemongo/comments/1w7y5xo/bro_anyone_here_encountered_this_bug_like_me_like/",
     "pokemon": [],
     "first_seen": "2026-09-05T12:12:58.604319+00:00"
+  },
+  {
+    "id": "harvest-festival-taken-over-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Harvest Festival: Taken Over",
+    "start": "2026-10-02T00:00:00.000",
+    "end": "2026-10-05T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-07T23:09:47.031302+00:00"
   }
 ]
