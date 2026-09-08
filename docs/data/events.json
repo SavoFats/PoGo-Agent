@@ -1,17 +1,5 @@
 [
   {
-    "id": "gbl-forever-forward_great-league_scroll-cup-great-league-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
-    "start": "2026-08-18T20:00:00.000Z",
-    "end": "2026-08-25T20:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "gbl-forever-forward_great-league_ultra-league_master-league-split-3",
     "source": "leekduck",
     "type": "in-game",
@@ -70,42 +58,6 @@
     "url": "https://leekduck.com/events/go-pass-august-2026/",
     "pokemon": [],
     "first_seen": "2026-07-21T21:55:21.176251+00:00"
-  },
-  {
-    "id": "lunala-in-5-star-raid-battles-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Lunala in 5-star Raid Battles",
-    "start": "2026-08-19T06:00:00.000",
-    "end": "2026-08-25T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
-    "pokemon": [
-      {
-        "name": "Lunala",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
-  },
-  {
-    "id": "mega-swampert-in-mega-raids-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Swampert in Mega Raids",
-    "start": "2026-08-19T06:00:00.000",
-    "end": "2026-08-25T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Swampert",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
   },
   {
     "id": "raidhour20260826",
