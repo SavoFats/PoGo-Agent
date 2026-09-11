@@ -1089,5 +1089,17 @@
     "url": "https://www.reddit.com/r/TheSilphRoad/comments/1wc1p1j/go_wild_global_mexico_city_and_sendai_flareblaze/",
     "pokemon": [],
     "first_seen": "2026-09-10T22:50:59.427398+00:00"
+  },
+  {
+    "id": "patterns-of-the-wild-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Patterns of the Wild",
+    "start": "2026-10-02T10:00:00.000",
+    "end": "2026-10-02T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-11T13:06:55.181712+00:00"
   }
 ]
