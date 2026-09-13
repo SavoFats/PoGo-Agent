@@ -196,24 +196,6 @@
     "first_seen": "2026-08-05T19:14:31.974997+00:00"
   },
   {
-    "id": "september-communitydayclassic2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Gible Community Day Classic",
-    "start": "2026-09-12T14:00:00.000",
-    "end": "2026-09-12T17:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/september-communitydayclassic2026/",
-    "pokemon": [
-      {
-        "name": "Gible",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
-        "shiny": false
-      }
-    ],
-    "first_seen": "2026-08-10T21:31:58.651459+00:00"
-  },
-  {
     "id": "super-mega-raid-day-september-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -538,12 +520,18 @@
     "id": "pokemonspotlighthour2026-09-17",
     "source": "leekduck",
     "type": "in-game",
-    "title": "Mystery Pokémon Spotlight Hour",
+    "title": "Charmander wearing Friede's goggles Spotlight Hour",
     "start": "2026-09-17T18:00:00.000",
     "end": "2026-09-17T19:00:00.000",
     "location": "global",
     "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
-    "pokemon": [],
+    "pokemon": [
+      {
+        "name": "Charmander wearing Friede's goggles",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png",
+        "shiny": true
+      }
+    ],
     "first_seen": "2026-08-26T00:41:25.025542+00:00"
   },
   {
