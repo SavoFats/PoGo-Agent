@@ -1089,5 +1089,23 @@
     "url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
     "pokemon": [],
     "first_seen": "2026-09-11T13:06:55.181712+00:00"
+  },
+  {
+    "id": "september-communitydayclassic2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Gible Community Day Classic",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/september-communitydayclassic2026/",
+    "pokemon": [
+      {
+        "name": "Gible",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+        "shiny": false
+      }
+    ],
+    "first_seen": "2026-09-13T17:46:57.702368+00:00"
   }
 ]
