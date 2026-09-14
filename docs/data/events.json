@@ -172,18 +172,6 @@
     "first_seen": "2026-08-03T01:53:01.455278+00:00"
   },
   {
-    "id": "pokemon-world-championships-2026-timed-research-twitch-drops",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Twitch Drops for 2026 Pokémon World Championships",
-    "start": "2026-08-28T16:00:00.000Z",
-    "end": "2026-08-31T03:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
-    "pokemon": [],
-    "first_seen": "2026-08-05T19:14:31.974997+00:00"
-  },
-  {
     "id": "super-mega-raid-day-september-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -759,18 +747,6 @@
     "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
     "pokemon": [],
     "first_seen": "2026-08-28T14:42:40.330791+00:00"
-  },
-  {
-    "id": "pokemon-world-championships-2026-san-francisco",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "[San Francisco] 2026 Pokémon World Championships",
-    "start": "2026-08-28T17:00:00.000Z",
-    "end": "2026-08-31T03:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-world-championships-2026-san-francisco/",
-    "pokemon": [],
-    "first_seen": "2026-08-29T11:57:57.931904+00:00"
   },
   {
     "id": "armored-mewtwo-in-5-star-raid-battles-september-2026",
