@@ -380,29 +380,6 @@
     "first_seen": "2026-08-26T00:41:25.025542+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-09-13",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Houndour and Houndoom Spotlight Hour",
-    "start": "2026-09-13T18:00:00.000",
-    "end": "2026-09-13T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-13/",
-    "pokemon": [
-      {
-        "name": "Houndour",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-        "shiny": true
-      },
-      {
-        "name": "Houndoom",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
     "id": "mega-squads-2026",
     "source": "leekduck",
     "type": "in-game",
