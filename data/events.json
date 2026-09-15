@@ -1,17 +1,5 @@
 [
   {
-    "id": "gbl-forever-forward_great-league_ultra-league_master-league-split-3",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Great League, Ultra League, and Master League | Forever Forward",
-    "start": "2026-08-25T20:00:00.000Z",
-    "end": "2026-09-01T20:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "season-23-forever-forward",
     "source": "leekduck",
     "type": "in-game",
@@ -1053,5 +1041,29 @@
     "url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/",
     "pokemon": [],
     "first_seen": "2026-09-15T02:28:38.380518+00:00"
+  },
+  {
+    "id": "mega-squads",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Squads",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-squads/",
+    "pokemon": [],
+    "first_seen": "2026-09-15T23:18:38.895159+00:00"
+  },
+  {
+    "id": "max-mondays-2026-09-14",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Rhyhorn during Max Monday",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-09-14/",
+    "pokemon": [],
+    "first_seen": "2026-09-15T23:18:38.895159+00:00"
   }
 ]
