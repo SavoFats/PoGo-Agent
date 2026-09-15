@@ -1059,5 +1059,17 @@
       }
     ],
     "first_seen": "2026-09-14T21:10:22.298744+00:00"
+  },
+  {
+    "id": "choose-your-path-twilight-trails-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Choose Your Path: Twilight Trails",
+    "start": "2026-09-23T10:00:00.000",
+    "end": "2026-09-28T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-15T02:28:38.380518+00:00"
   }
 ]
