@@ -1011,5 +1011,59 @@
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
     "pokemon": [],
     "first_seen": "2026-09-16T13:52:40.990719+00:00"
+  },
+  {
+    "id": "mega-beedrill-in-mega-raids-september-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Beedrill in Mega Raids",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-beedrill-in-mega-raids-september-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Beedrill",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-16T18:32:52.599283+00:00"
+  },
+  {
+    "id": "zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026/",
+    "pokemon": [
+      {
+        "name": "Zacian (Hero of Many Battles)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fHERO.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-16T18:32:52.599283+00:00"
+  },
+  {
+    "id": "mega-houndoom-in-mega-raids-september-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Houndoom in Mega Raids",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-houndoom-in-mega-raids-september-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Houndoom",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-16T18:32:52.599283+00:00"
   }
 ]
