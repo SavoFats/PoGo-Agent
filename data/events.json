@@ -1436,5 +1436,35 @@
     "url": "https://leekduck.com/events/halloween-2026-part-2/",
     "pokemon": [],
     "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-09-17",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Charmander wearing Friede's goggles Spotlight Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
+    "pokemon": [
+      {
+        "name": "Charmander wearing Friede's goggles",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T17:58:01.986530+00:00"
+  },
+  {
+    "id": "pokemon-horizons-bonus-timed-research-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon Horizons Bonus Timed Research",
+    "start": "2026-09-18T00:00:00.000",
+    "end": "2026-09-22T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T17:58:01.986530+00:00"
   }
 ]
