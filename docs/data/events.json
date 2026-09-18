@@ -205,7 +205,7 @@
     "id": "max-battle-day-october-24-2026",
     "source": "leekduck",
     "type": "in-game",
-    "title": "Max Battle Day",
+    "title": "Dynamax Max Battle Day",
     "start": "2026-10-24T14:00:00.000",
     "end": "2026-10-24T17:00:00.000",
     "location": "global",
@@ -1053,5 +1053,406 @@
     "url": "https://leekduck.com/events/raidhour20260916/",
     "pokemon": [],
     "first_seen": "2026-09-17T18:40:56.691309+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-10-01",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Seedot Spotlight Hour",
+    "start": "2026-10-01T18:00:00.000",
+    "end": "2026-10-01T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
+    "pokemon": [
+      {
+        "name": "Seedot",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "max-mondays-2026-10-05",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Sizzlipede during Max Monday",
+    "start": "2026-10-05T06:00:00.000",
+    "end": "2026-10-05T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-05/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "raidhour20261007",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Yveltal Raid Hour",
+    "start": "2026-10-07T18:00:00.000",
+    "end": "2026-10-07T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261007/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-10-08",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Elgyem Spotlight Hour",
+    "start": "2026-10-08T18:00:00.000",
+    "end": "2026-10-08T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-08/",
+    "pokemon": [
+      {
+        "name": "Elgyem",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "unannounced-event-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "???",
+    "start": "2026-10-04T00:00:00.000",
+    "end": "2026-10-10T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/unannounced-event-october-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "max-mondays-2026-10-12",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Rookidee during Max Monday",
+    "start": "2026-10-12T06:00:00.000",
+    "end": "2026-10-12T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-12/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "mega-blastoise-in-mega-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Blastoise in Mega Raids",
+    "start": "2026-10-07T06:00:00.000",
+    "end": "2026-10-13T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Blastoise",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "yveltal-in-5-star-raid-battles-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Yveltal in 5-star Raid Battles",
+    "start": "2026-10-07T06:00:00.000",
+    "end": "2026-10-13T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/",
+    "pokemon": [
+      {
+        "name": "Yveltal",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "raidhour20261014",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dialga Raid Hour",
+    "start": "2026-10-14T18:00:00.000",
+    "end": "2026-10-14T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261014/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-10-15",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Stufful Spotlight Hour",
+    "start": "2026-10-15T18:00:00.000",
+    "end": "2026-10-15T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-15/",
+    "pokemon": [
+      {
+        "name": "Stufful",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "max-mondays-2026-10-19",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Sneasel during Max Monday",
+    "start": "2026-10-19T06:00:00.000",
+    "end": "2026-10-19T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-19/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "fall-marathon-buddy-trek-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Fall Marathon: Buddy Trek",
+    "start": "2026-10-13T00:00:00.000",
+    "end": "2026-10-19T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "dialga-in-5-star-raid-battles-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dialga in 5-star Raid Battles",
+    "start": "2026-10-14T06:00:00.000",
+    "end": "2026-10-20T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
+    "pokemon": [
+      {
+        "name": "Dialga",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "mega-dragonite-in-mega-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Dragonite in Mega Raids",
+    "start": "2026-10-14T06:00:00.000",
+    "end": "2026-10-20T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Dragonite",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "raidhour20261021",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Palkia Raid Hour",
+    "start": "2026-10-21T18:00:00.000",
+    "end": "2026-10-21T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261021/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-10-22",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Morelull Spotlight Hour",
+    "start": "2026-10-22T18:00:00.000",
+    "end": "2026-10-22T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+    "pokemon": [
+      {
+        "name": "Morelull",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "max-mondays-2026-10-26",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Sableye during Max Monday",
+    "start": "2026-10-26T06:00:00.000",
+    "end": "2026-10-26T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-26/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+    "start": "2026-10-21T06:00:00.000",
+    "end": "2026-10-27T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Charizard X",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51.png",
+        "shiny": true
+      },
+      {
+        "name": "Mega Charizard Y",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "palkia-in-5-star-raid-battles-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Palkia in 5-star Raid Battles",
+    "start": "2026-10-21T06:00:00.000",
+    "end": "2026-10-27T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
+    "pokemon": [
+      {
+        "name": "Palkia",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "raidhour20261028",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Giratina (Origin Forme) Raid Hour",
+    "start": "2026-10-28T18:00:00.000",
+    "end": "2026-10-28T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261028/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-10-29",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Gastly Spotlight Hour",
+    "start": "2026-10-29T18:00:00.000",
+    "end": "2026-10-29T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
+    "pokemon": [
+      {
+        "name": "Gastly",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "halloween-2026-part-1",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Halloween 2026 Part I",
+    "start": "2026-10-27T00:00:00.000",
+    "end": "2026-10-31T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/halloween-2026-part-1/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
+    "start": "2026-10-07T06:00:00.000",
+    "end": "2026-11-03T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Landorus (Incarnate)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "giratina-origin-forme-in-5-star-raid-battles-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Giratina (Origin Forme) in 5-star Raid Battles",
+    "start": "2026-10-28T06:00:00.000",
+    "end": "2026-11-03T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
+    "pokemon": [
+      {
+        "name": "Giratina (Origin)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "mega-sableye-in-mega-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Sableye in Mega Raids",
+    "start": "2026-10-28T06:00:00.000",
+    "end": "2026-11-03T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Sableye",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
+  },
+  {
+    "id": "halloween-2026-part-2",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Halloween 2026 Part II",
+    "start": "2026-11-01T00:00:00.000",
+    "end": "2026-11-05T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/halloween-2026-part-2/",
+    "pokemon": [],
+    "first_seen": "2026-09-18T02:12:01.468246+00:00"
   }
 ]
