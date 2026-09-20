@@ -1430,5 +1430,17 @@
     "url": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
     "pokemon": [],
     "first_seen": "2026-09-18T17:58:01.986530+00:00"
+  },
+  {
+    "id": "staraptor-super-mega-raid-day-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Staraptor Super Mega Raid Day",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-20T13:18:52.495846+00:00"
   }
 ]
