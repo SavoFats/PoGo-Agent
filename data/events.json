@@ -262,18 +262,6 @@
     "first_seen": "2026-08-25T18:24:05.979883+00:00"
   },
   {
-    "id": "max-mondays-2026-09-07",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Ralts during Max Monday",
-    "start": "2026-09-07T06:00:00.000",
-    "end": "2026-09-07T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-09-07/",
-    "pokemon": [],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
     "id": "raidhour20260909",
     "source": "leekduck",
     "type": "in-game",
@@ -1400,5 +1388,17 @@
     "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
     "pokemon": [],
     "first_seen": "2026-09-20T13:18:52.495846+00:00"
+  },
+  {
+    "id": "world-space-week-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "World Space Week 2026",
+    "start": "2026-10-04T00:00:00.000",
+    "end": "2026-10-10T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/world-space-week-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-21T21:24:22.612091+00:00"
   }
 ]
