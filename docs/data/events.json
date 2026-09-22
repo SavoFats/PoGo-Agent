@@ -1,17 +1,5 @@
 [
   {
-    "id": "gbl-forever-forward_great-league_ultra-league_master-league-mega-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
-    "start": "2026-09-01T20:00:00.000Z",
-    "end": "2026-09-08T20:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
-    "pokemon": [],
-    "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
     "id": "example_event",
     "source": "leekduck",
     "type": "in-game",
@@ -22,70 +10,6 @@
     "url": "https://leekduck.com/events/example_event/",
     "pokemon": [],
     "first_seen": "2026-06-25T21:28:02.639376+00:00"
-  },
-  {
-    "id": "shadow-giratina-altered-in-shadow-raids-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Shadow Giratina (Altered Forme) in Shadow Raids",
-    "start": "2026-08-05T06:00:00.000",
-    "end": "2026-09-08T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
-    "pokemon": [
-      {
-        "name": "Giratina (Altered)",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
-  },
-  {
-    "id": "mega-gyarados-in-mega-raids-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Gyarados in Mega Raids",
-    "start": "2026-08-26T06:00:00.000",
-    "end": "2026-09-08T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Gyarados",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
-  },
-  {
-    "id": "regirock-regice-registeel-in-5-star-raid-battles-august-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
-    "start": "2026-08-26T06:00:00.000",
-    "end": "2026-09-08T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
-    "pokemon": [
-      {
-        "name": "Regirock",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
-        "shiny": true
-      },
-      {
-        "name": "Regice",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
-        "shiny": true
-      },
-      {
-        "name": "Registeel",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-07-22T21:57:17.745387+00:00"
   },
   {
     "id": "lego-pokemon-go-2026",
@@ -1376,5 +1300,17 @@
     "url": "https://leekduck.com/events/go-pass-october-2026/",
     "pokemon": [],
     "first_seen": "2026-09-22T18:24:53.203407+00:00"
+  },
+  {
+    "id": "max-mondays-2026-09-21",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-09-21/",
+    "pokemon": [],
+    "first_seen": "2026-09-22T23:22:33.077853+00:00"
   }
 ]
