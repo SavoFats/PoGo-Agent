@@ -226,42 +226,6 @@
     "first_seen": "2026-08-26T00:41:25.025542+00:00"
   },
   {
-    "id": "mega-venusaur-in-mega-raids-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Venusaur in Mega Raids",
-    "start": "2026-09-16T06:00:00.000",
-    "end": "2026-09-22T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-venusaur-in-mega-raids-september-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Venusaur",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_51.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
-    "id": "zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
-    "start": "2026-09-16T06:00:00.000",
-    "end": "2026-09-22T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026/",
-    "pokemon": [
-      {
-        "name": "Zamazenta (Hero of Many Battles)",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fHERO.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
     "id": "raidhour20260923",
     "source": "leekduck",
     "type": "in-game",
@@ -558,18 +522,6 @@
     "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
     "pokemon": [],
     "first_seen": "2026-09-01T08:06:28.916067+00:00"
-  },
-  {
-    "id": "pokemon-horizons-the-series-celebration-event-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pokémon Horizons: The Series Celebration Event 2026",
-    "start": "2026-09-16T10:00:00.000",
-    "end": "2026-09-22T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
-    "pokemon": [],
-    "first_seen": "2026-09-02T18:13:52.760219+00:00"
   },
   {
     "id": "harvest-festival-taken-over-2026",
@@ -1246,8 +1198,8 @@
     "source": "leekduck",
     "type": "in-game",
     "title": "Pokémon Horizons Bonus Timed Research",
-    "start": "2026-09-18T10:00:00.000",
-    "end": "2026-09-22T20:00:00.000",
+    "start": null,
+    "end": null,
     "location": "global",
     "url": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
     "pokemon": [],
