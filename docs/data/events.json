@@ -1308,5 +1308,65 @@
       }
     ],
     "first_seen": "2026-09-25T23:41:41.958731+00:00"
+  },
+  {
+    "id": "pokemon-go-city-safari-brisbane-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Brisbane, Australia - Pokémon GO City Safari",
+    "start": "2026-09-26T00:00:00.000Z",
+    "end": "2026-09-27T08:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-brisbane-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-26T08:06:26.342729+00:00"
+  },
+  {
+    "id": "pokemon-go-city-safari-marseille-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Marseille, France - Pokémon GO City Safari",
+    "start": "2026-09-26T08:00:00.000Z",
+    "end": "2026-09-27T16:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-marseille-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-26T08:06:26.342729+00:00"
+  },
+  {
+    "id": "pokemon-go-city-safari-munich-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Munich, Germany - Pokémon GO City Safari",
+    "start": "2026-09-26T08:00:00.000Z",
+    "end": "2026-09-27T16:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-munich-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-26T08:06:26.342729+00:00"
+  },
+  {
+    "id": "pokemon-go-city-safari-lisbon-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Lisbon, Portugal - Pokémon GO City Safari",
+    "start": "2026-09-26T09:00:00.000Z",
+    "end": "2026-09-27T17:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-lisbon-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-26T08:06:26.342729+00:00"
+  },
+  {
+    "id": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "start": "2026-09-26T13:00:00.000Z",
+    "end": "2026-09-27T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-rio-de-janeiro-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-26T08:06:26.342729+00:00"
   }
 ]
