@@ -1350,5 +1350,17 @@
     "url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
     "pokemon": [],
     "first_seen": "2026-09-27T23:29:16.874692+00:00"
+  },
+  {
+    "id": "catch-mastery-phantump-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Phantump Catch Mastery",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-28T02:35:39.174444+00:00"
   }
 ]
