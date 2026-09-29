@@ -174,18 +174,6 @@
     "first_seen": "2026-08-26T00:41:25.025542+00:00"
   },
   {
-    "id": "max-mondays-2026-09-28",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Sobble during Max Monday",
-    "start": "2026-09-28T06:00:00.000",
-    "end": "2026-09-28T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-09-28/",
-    "pokemon": [],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
     "id": "mega-malamar-in-mega-raids-september-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -1315,5 +1303,17 @@
     "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
     "pokemon": [],
     "first_seen": "2026-09-28T02:35:39.174444+00:00"
+  },
+  {
+    "id": "choose-your-path-twilight-trails-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Choose Your Path: Twilight Trails",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/",
+    "pokemon": [],
+    "first_seen": "2026-09-29T21:38:58.050698+00:00"
   }
 ]
