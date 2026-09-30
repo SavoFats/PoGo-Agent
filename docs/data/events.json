@@ -490,30 +490,6 @@
     "first_seen": "2026-09-11T13:06:55.181712+00:00"
   },
   {
-    "id": "mega-squads",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Squads",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-squads/",
-    "pokemon": [],
-    "first_seen": "2026-09-15T23:18:38.895159+00:00"
-  },
-  {
-    "id": "max-mondays-2026-09-14",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Rhyhorn during Max Monday",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-09-14/",
-    "pokemon": [],
-    "first_seen": "2026-09-15T23:18:38.895159+00:00"
-  },
-  {
     "id": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1",
     "source": "leekduck",
     "type": "in-game",
@@ -1315,5 +1291,17 @@
     "url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/",
     "pokemon": [],
     "first_seen": "2026-09-29T21:38:58.050698+00:00"
+  },
+  {
+    "id": "max-mondays-2026-09-28",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Sobble during Max Monday",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-09-28/",
+    "pokemon": [],
+    "first_seen": "2026-09-30T03:00:35.150027+00:00"
   }
 ]
