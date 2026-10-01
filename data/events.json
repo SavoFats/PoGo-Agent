@@ -12,18 +12,6 @@
     "first_seen": "2026-06-25T21:28:02.639376+00:00"
   },
   {
-    "id": "lego-pokemon-go-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "LEGO Stores and Pokémon GO",
-    "start": "2026-08-03T10:00:00.000",
-    "end": "2026-09-30T23:59:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
-    "pokemon": [],
-    "first_seen": "2026-08-03T01:53:01.455278+00:00"
-  },
-  {
     "id": "super-mega-raid-day-september-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -418,18 +406,6 @@
     "url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
     "pokemon": [],
     "first_seen": "2026-09-11T13:06:55.181712+00:00"
-  },
-  {
-    "id": "raidhour20260916",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Zamazenta (Hero of Many Battles) Raid Hour",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/raidhour20260916/",
-    "pokemon": [],
-    "first_seen": "2026-09-17T18:40:56.691309+00:00"
   },
   {
     "id": "pokemonspotlighthour2026-10-01",
@@ -1179,5 +1155,17 @@
     "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition/",
     "pokemon": [],
     "first_seen": "2026-09-30T21:39:44.226661+00:00"
+  },
+  {
+    "id": "raidhour20260930",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Xerneas Raid Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20260930/",
+    "pokemon": [],
+    "first_seen": "2026-10-01T19:58:13.698802+00:00"
   }
 ]
