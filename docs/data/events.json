@@ -791,36 +791,6 @@
     "first_seen": "2026-09-18T02:12:01.468246+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-09-17",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Charmander wearing Friede's goggles Spotlight Hour",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
-    "pokemon": [
-      {
-        "name": "Charmander wearing Friede's goggles",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T17:58:01.986530+00:00"
-  },
-  {
-    "id": "pokemon-horizons-bonus-timed-research-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pokémon Horizons Bonus Timed Research",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
-    "pokemon": [],
-    "first_seen": "2026-09-18T17:58:01.986530+00:00"
-  },
-  {
     "id": "staraptor-super-mega-raid-day-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -1257,5 +1227,23 @@
     "url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
     "pokemon": [],
     "first_seen": "2026-10-02T17:02:14.056852+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-10-01",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Seedot Spotlight Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
+    "pokemon": [
+      {
+        "name": "Seedot",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-02T21:35:01.336294+00:00"
   }
 ]
