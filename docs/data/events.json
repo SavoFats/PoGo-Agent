@@ -1167,5 +1167,89 @@
     "url": "https://leekduck.com/events/raidhour20260930/",
     "pokemon": [],
     "first_seen": "2026-10-01T19:58:13.698802+00:00"
+  },
+  {
+    "id": "lego-pokemon-go-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "LEGO Stores and Pokémon GO",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-02T00:20:18.946739+00:00"
+  },
+  {
+    "id": "minior-showers-orionids-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Minior Showers: Orionids 2026",
+    "start": "2026-10-19T17:00:00.000",
+    "end": "2026-10-24T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-02T00:20:18.946739+00:00"
+  },
+  {
+    "id": "minior-showers-leonids-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Minior Showers: Leonids 2026",
+    "start": "2026-11-14T17:00:00.000",
+    "end": "2026-11-19T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-02T00:20:18.946739+00:00"
+  },
+  {
+    "id": "minior-showers-geminids-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Minior Showers: Geminids 2026",
+    "start": "2026-12-11T17:00:00.000",
+    "end": "2026-12-16T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-02T00:20:18.946739+00:00"
+  },
+  {
+    "id": "minior-showers-eta-aquariids-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Minior Showers: Eta Aquariids 2027",
+    "start": "2027-05-03T17:00:00.000",
+    "end": "2027-05-08T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
+    "pokemon": [],
+    "first_seen": "2026-10-02T00:20:18.946739+00:00"
+  },
+  {
+    "id": "minior-showers-southern-delta-aquariids-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Minior Showers: Southern Delta Aquariids 2027",
+    "start": "2027-07-28T17:00:00.000",
+    "end": "2027-08-02T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
+    "pokemon": [],
+    "first_seen": "2026-10-02T00:20:18.946739+00:00"
+  },
+  {
+    "id": "minior-showers-perseids-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Minior Showers: Perseids 2027",
+    "start": "2027-08-10T17:00:00.000",
+    "end": "2027-08-15T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
+    "pokemon": [],
+    "first_seen": "2026-10-02T00:20:18.946739+00:00"
   }
 ]
