@@ -755,18 +755,6 @@
     "first_seen": "2026-09-18T02:12:01.468246+00:00"
   },
   {
-    "id": "staraptor-super-mega-raid-day-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Staraptor Super Mega Raid Day",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
-    "pokemon": [],
-    "first_seen": "2026-09-20T13:18:52.495846+00:00"
-  },
-  {
     "id": "world-space-week-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -1221,5 +1209,17 @@
     "url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
     "pokemon": [],
     "first_seen": "2026-10-03T23:25:54.333032+00:00"
+  },
+  {
+    "id": "gigantamax-cinderace-max-battle-day-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Gigantamax Cinderace Max Battle Day",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-04T16:09:42.062235+00:00"
   }
 ]
