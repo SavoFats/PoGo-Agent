@@ -138,18 +138,6 @@
     "first_seen": "2026-08-25T18:24:05.979883+00:00"
   },
   {
-    "id": "unannounced-september-event-season-24",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Unannounced Event",
-    "start": "2026-09-16T10:00:00.000",
-    "end": "2026-09-22T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/unannounced-september-event-season-24/",
-    "pokemon": [],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
     "id": "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -743,18 +731,6 @@
     "first_seen": "2026-09-22T18:24:53.203407+00:00"
   },
   {
-    "id": "max-mondays-2026-09-21",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-09-21/",
-    "pokemon": [],
-    "first_seen": "2026-09-22T23:22:33.077853+00:00"
-  },
-  {
     "id": "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition",
     "source": "leekduck",
     "type": "in-game",
@@ -1185,5 +1161,41 @@
     "url": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
     "pokemon": [],
     "first_seen": "2026-10-04T16:09:42.062235+00:00"
+  },
+  {
+    "id": "harvest-festival-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Harvest Festival 2026: Applin Picking",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/harvest-festival-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-07T00:13:41.716078+00:00"
+  },
+  {
+    "id": "harvest-festival-taken-over-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Harvest Festival: Taken Over",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-07T00:13:41.716078+00:00"
+  },
+  {
+    "id": "max-mondays-2026-10-05",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Sizzlipede during Max Monday",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-05/",
+    "pokemon": [],
+    "first_seen": "2026-10-07T00:13:41.716078+00:00"
   }
 ]
