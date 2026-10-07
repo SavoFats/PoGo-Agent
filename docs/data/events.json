@@ -126,60 +126,6 @@
     "first_seen": "2026-08-25T18:24:05.979883+00:00"
   },
   {
-    "id": "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
-    "start": "2026-09-09T06:00:00.000",
-    "end": "2026-10-06T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/",
-    "pokemon": [
-      {
-        "name": "Thundurus (Incarnate)",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
-    "id": "mega-victreebel-in-mega-raids-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Victreebel in Mega Raids",
-    "start": "2026-09-30T06:00:00.000",
-    "end": "2026-10-06T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Victreebel",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
-    "id": "xerneas-in-5-star-raid-battles-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Xerneas in 5-star Raid Battles",
-    "start": "2026-09-30T06:00:00.000",
-    "end": "2026-10-06T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
-    "pokemon": [
-      {
-        "name": "Xerneas",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-08-26T00:41:25.025542+00:00"
-  },
-  {
     "id": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2",
     "source": "leekduck",
     "type": "in-game",
@@ -707,18 +653,6 @@
     "first_seen": "2026-09-22T18:24:53.203407+00:00"
   },
   {
-    "id": "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Great League, Ultra League: Mega Edition, and Willpower Cup: Great League Edition | Twilight Trails",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition/",
-    "pokemon": [],
-    "first_seen": "2026-09-23T13:57:40.273110+00:00"
-  },
-  {
     "id": "pokemon-horizons-the-series-celebration-event-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -1173,5 +1107,29 @@
     "url": "https://leekduck.com/events/max-mondays-2026-10-05/",
     "pokemon": [],
     "first_seen": "2026-10-07T00:13:41.716078+00:00"
+  },
+  {
+    "id": "go-pass-september-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "GO Pass: September",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/go-pass-september-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-07T18:07:37.229126+00:00"
+  },
+  {
+    "id": "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-10-07T18:07:37.229126+00:00"
   }
 ]
