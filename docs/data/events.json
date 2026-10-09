@@ -258,18 +258,6 @@
     "first_seen": "2026-09-10T02:06:55.312221+00:00"
   },
   {
-    "id": "raidhour20261007",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Yveltal Raid Hour",
-    "start": "2026-10-07T18:00:00.000",
-    "end": "2026-10-07T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/raidhour20261007/",
-    "pokemon": [],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-10-08",
     "source": "leekduck",
     "type": "in-game",
@@ -620,7 +608,7 @@
     "id": "halloween-2026-part-2",
     "source": "leekduck",
     "type": "in-game",
-    "title": "Halloween 2026 Part II",
+    "title": "Pokémon GO Halloween 2026 Part II",
     "start": "2026-11-01T10:00:00.000",
     "end": "2026-11-05T20:00:00.000",
     "location": "global",
@@ -699,18 +687,6 @@
     "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
     "pokemon": [],
     "first_seen": "2026-09-24T13:54:04.434199+00:00"
-  },
-  {
-    "id": "raidhour20260923",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/raidhour20260923/",
-    "pokemon": [],
-    "first_seen": "2026-09-24T18:44:37.551438+00:00"
   },
   {
     "id": "sandile-hatch-day-2026",
