@@ -1113,5 +1113,17 @@
       }
     ],
     "first_seen": "2026-10-08T00:34:31.391028+00:00"
+  },
+  {
+    "id": "raidhour20261007",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Yveltal Raid Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261007/",
+    "pokemon": [],
+    "first_seen": "2026-10-09T09:48:18.283365+00:00"
   }
 ]
