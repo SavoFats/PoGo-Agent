@@ -993,5 +993,35 @@
       }
     ],
     "first_seen": "2026-10-09T22:00:26.429030+00:00"
+  },
+  {
+    "id": "october-communityday2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Zorua Community Day",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/october-communityday2026/",
+    "pokemon": [
+      {
+        "name": "Zorua",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+        "shiny": false
+      }
+    ],
+    "first_seen": "2026-10-12T13:53:22.080979+00:00"
+  },
+  {
+    "id": "world-space-week-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "World Space Week 2026",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/world-space-week-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-12T13:53:22.080979+00:00"
   }
 ]
