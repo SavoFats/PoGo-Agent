@@ -24,24 +24,6 @@
     "first_seen": "2026-08-10T21:31:58.651459+00:00"
   },
   {
-    "id": "october-communityday2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Zorua Community Day",
-    "start": "2026-10-10T14:00:00.000",
-    "end": "2026-10-10T17:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/october-communityday2026/",
-    "pokemon": [
-      {
-        "name": "Zorua",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
-        "shiny": false
-      }
-    ],
-    "first_seen": "2026-08-10T21:31:58.651459+00:00"
-  },
-  {
     "id": "hatch-day-october-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -587,18 +569,6 @@
     "first_seen": "2026-09-18T02:12:01.468246+00:00"
   },
   {
-    "id": "world-space-week-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "World Space Week 2026",
-    "start": "2026-10-04T00:00:00.000",
-    "end": "2026-10-10T23:59:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/world-space-week-2026/",
-    "pokemon": [],
-    "first_seen": "2026-09-21T21:24:22.612091+00:00"
-  },
-  {
     "id": "go-pass-october-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -681,18 +651,6 @@
     "url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
     "pokemon": [],
     "first_seen": "2026-09-27T23:29:16.874692+00:00"
-  },
-  {
-    "id": "catch-mastery-phantump-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Phantump Catch Mastery",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
-    "pokemon": [],
-    "first_seen": "2026-09-28T02:35:39.174444+00:00"
   },
   {
     "id": "choose-your-path-twilight-trails-2026",
