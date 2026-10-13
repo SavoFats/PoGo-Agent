@@ -1011,5 +1011,17 @@
     "url": "https://leekduck.com/events/world-space-week-2026/",
     "pokemon": [],
     "first_seen": "2026-10-12T13:53:22.080979+00:00"
+  },
+  {
+    "id": "max-mondays-2026-10-12",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Rookidee during Max Monday",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-12/",
+    "pokemon": [],
+    "first_seen": "2026-10-13T20:25:40.735558+00:00"
   }
 ]
