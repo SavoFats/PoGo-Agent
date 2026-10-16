@@ -677,24 +677,6 @@
     "first_seen": "2026-10-02T17:02:14.056852+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-10-01",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Seedot Spotlight Hour",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
-    "pokemon": [
-      {
-        "name": "Seedot",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-02T21:35:01.336294+00:00"
-  },
-  {
     "id": "patterns-of-the-wild-2026",
     "source": "leekduck",
     "type": "in-game",
