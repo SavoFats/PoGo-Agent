@@ -442,7 +442,7 @@
     "type": "in-game",
     "title": "Mega Sableye in Mega Raids",
     "start": "2026-10-28T06:00:00.000",
-    "end": "2026-11-03T22:00:00.000",
+    "end": "2026-11-08T22:00:00.000",
     "location": "global",
     "url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
     "pokemon": [
@@ -933,5 +933,319 @@
       }
     ],
     "first_seen": "2026-10-17T07:18:43.470426+00:00"
+  },
+  {
+    "id": "pokemon-night-out-los-angeles-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon Night Out 2026 - Los Angeles",
+    "start": "2026-10-25T02:30:00.000Z",
+    "end": "2026-10-25T06:59:59.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "max-mondays-2026-11-02",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Machop during Max Monday",
+    "start": "2026-11-02T06:00:00.000",
+    "end": "2026-11-02T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-02/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "raidhour20261104",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Giratina (Altered Forme) Raid Hour",
+    "start": "2026-11-04T18:00:00.000",
+    "end": "2026-11-04T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261104/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-11-05",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Teddiursa wearing a witch hat Spotlight Hour",
+    "start": "2026-11-05T18:00:00.000",
+    "end": "2026-11-05T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-05/",
+    "pokemon": [
+      {
+        "name": "Teddiursa wearing a witch hat",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "giratina-altered-forme-in-5-star-raid-battles-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Giratina (Altered Forme) in 5-star Raid Battles",
+    "start": "2026-11-04T06:00:00.000",
+    "end": "2026-11-08T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/giratina-altered-forme-in-5-star-raid-battles-november-2026/",
+    "pokemon": [
+      {
+        "name": "Giratina (Altered)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "start": "2026-11-04T06:00:00.000",
+    "end": "2026-11-08T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026/",
+    "pokemon": [
+      {
+        "name": "Tornadus (Incarnate)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11.png",
+        "shiny": false
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "pokemon-night-out-london-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon Night Out 2026 - London",
+    "start": "2026-11-10T18:00:00.000Z",
+    "end": "2026-11-10T22:30:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-night-out-london-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "max-mondays-2026-11-16",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Max Monday: Pokémon to be announced",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-11-16T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "raidhour20261118",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Cresselia and Darkrai Raid Hour",
+    "start": "2026-11-18T18:00:00.000",
+    "end": "2026-11-18T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261118/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "dynamax-trails-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Trails",
+    "start": "2026-11-16T10:00:00.000",
+    "end": "2026-11-23T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/dynamax-trails-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "max-mondays-2026-11-23",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Espurr during Max Monday",
+    "start": "2026-11-23T06:00:00.000",
+    "end": "2026-11-23T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "cresselia-darkrai-in-5-star-raid-battles-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Cresselia and Darkrai in 5-star Raid Battles",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-11-24T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
+    "pokemon": [
+      {
+        "name": "Cresselia",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Darkrai",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_491_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "mega-banette-in-mega-raids-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Banette in Mega Raids",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-11-24T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Banette",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "raidhour20261125",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+    "start": "2026-11-25T18:00:00.000",
+    "end": "2026-11-25T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261125/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-11-26",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Noibat Spotlight Hour",
+    "start": "2026-11-26T18:00:00.000",
+    "end": "2026-11-26T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
+    "pokemon": [
+      {
+        "name": "Noibat",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "twilight-wishes-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Twilight Wishes",
+    "start": "2026-11-24T10:00:00.000",
+    "end": "2026-11-30T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/twilight-wishes-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "max-mondays-2026-11-30",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Cryogonal during Max Monday",
+    "start": "2026-11-30T06:00:00.000",
+    "end": "2026-11-30T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
+    "pokemon": [],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "start": "2026-11-16T06:00:00.000",
+    "end": "2026-12-01T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
+    "pokemon": [
+      {
+        "name": "Tornadus (Incarnate)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11.png",
+        "shiny": false
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) in 5-star Raid Battles",
+    "start": "2026-11-25T06:00:00.000",
+    "end": "2026-12-01T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
+    "pokemon": [
+      {
+        "name": "Deoxys (Normal)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_11.png",
+        "shiny": true
+      },
+      {
+        "name": "Deoxys (Defense)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13.png",
+        "shiny": true
+      },
+      {
+        "name": "Deoxys (Attack)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12.png",
+        "shiny": true
+      },
+      {
+        "name": "Deoxys (Speed)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "mega-metagross-in-mega-raids-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Metagross in Mega Raids",
+    "start": "2026-11-25T06:00:00.000",
+    "end": "2026-12-01T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Metagross",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm376.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-19T21:51:15.584967+00:00"
   }
 ]
