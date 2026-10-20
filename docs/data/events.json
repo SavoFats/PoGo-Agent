@@ -216,30 +216,6 @@
     "first_seen": "2026-09-18T02:12:01.468246+00:00"
   },
   {
-    "id": "max-mondays-2026-10-19",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Sneasel during Max Monday",
-    "start": "2026-10-19T06:00:00.000",
-    "end": "2026-10-19T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-10-19/",
-    "pokemon": [],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
-    "id": "fall-marathon-buddy-trek-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Fall Marathon: Buddy Trek",
-    "start": "2026-10-13T10:00:00.000",
-    "end": "2026-10-19T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-    "pokemon": [],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
     "id": "dialga-in-5-star-raid-battles-october-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -1247,5 +1223,17 @@
       }
     ],
     "first_seen": "2026-10-19T21:51:15.584967+00:00"
+  },
+  {
+    "id": "go-pass-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "GO Pass: November",
+    "start": "2026-11-03T10:00:00.000",
+    "end": "2026-12-01T10:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/go-pass-november-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-20T18:49:25.370811+00:00"
   }
 ]
