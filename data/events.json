@@ -1157,5 +1157,53 @@
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
     "pokemon": [],
     "first_seen": "2026-10-21T19:01:37.289499+00:00"
+  },
+  {
+    "id": "pokemon-tcg-30th-celebration",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon TCG: 30th Celebration",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
+    "pokemon": [],
+    "first_seen": "2026-10-21T23:47:57.539639+00:00"
+  },
+  {
+    "id": "dialga-in-5-star-raid-battles-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dialga in 5-star Raid Battles",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
+    "pokemon": [
+      {
+        "name": "Dialga",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-21T23:47:57.539639+00:00"
+  },
+  {
+    "id": "mega-dragonite-in-mega-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Dragonite in Mega Raids",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Dragonite",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-21T23:47:57.539639+00:00"
   }
 ]
