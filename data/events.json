@@ -611,42 +611,6 @@
     "first_seen": "2026-10-02T17:02:14.056852+00:00"
   },
   {
-    "id": "harvest-festival-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Harvest Festival 2026: Applin Picking",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/harvest-festival-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-07T00:13:41.716078+00:00"
-  },
-  {
-    "id": "harvest-festival-taken-over-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Harvest Festival: Taken Over",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-07T00:13:41.716078+00:00"
-  },
-  {
-    "id": "max-mondays-2026-10-05",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Sizzlipede during Max Monday",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-10-05/",
-    "pokemon": [],
-    "first_seen": "2026-10-07T00:13:41.716078+00:00"
-  },
-  {
     "id": "go-pass-september-2026",
     "source": "leekduck",
     "type": "in-game",
