@@ -51,12 +51,18 @@
     "id": "november-communityday2026",
     "source": "leekduck",
     "type": "in-game",
-    "title": "November Community Day",
+    "title": "Pawniard Community Day",
     "start": "2026-11-21T14:00:00.000",
     "end": "2026-11-21T17:00:00.000",
     "location": "global",
     "url": "https://leekduck.com/events/november-communityday2026/",
-    "pokemon": [],
+    "pokemon": [
+      {
+        "name": "Pawniard",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+        "shiny": false
+      }
+    ],
     "first_seen": "2026-08-10T21:31:58.651459+00:00"
   },
   {
@@ -201,42 +207,6 @@
     "location": "global",
     "url": "https://leekduck.com/events/unannounced-event-october-2026/",
     "pokemon": [],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
-    "id": "dialga-in-5-star-raid-battles-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dialga in 5-star Raid Battles",
-    "start": "2026-10-14T06:00:00.000",
-    "end": "2026-10-20T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
-    "pokemon": [
-      {
-        "name": "Dialga",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
-    "id": "mega-dragonite-in-mega-raids-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Dragonite in Mega Raids",
-    "start": "2026-10-14T06:00:00.000",
-    "end": "2026-10-20T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Dragonite",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
     "first_seen": "2026-09-18T02:12:01.468246+00:00"
   },
   {
@@ -491,18 +461,6 @@
     "first_seen": "2026-09-24T13:54:04.434199+00:00"
   },
   {
-    "id": "pokemon-tcg-30th-celebration",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pokémon TCG: 30th Celebration",
-    "start": "2026-09-27T10:00:00.000",
-    "end": "2026-10-20T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
-    "pokemon": [],
-    "first_seen": "2026-09-27T23:29:16.874692+00:00"
-  },
-  {
     "id": "minior-showers-orionids-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -597,30 +555,6 @@
     "url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
     "pokemon": [],
     "first_seen": "2026-10-02T17:02:14.056852+00:00"
-  },
-  {
-    "id": "go-pass-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "GO Pass: September",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/go-pass-september-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-07T18:07:37.229126+00:00"
-  },
-  {
-    "id": "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/",
-    "pokemon": [],
-    "first_seen": "2026-10-07T18:07:37.229126+00:00"
   },
   {
     "id": "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026",
@@ -1211,5 +1145,17 @@
     "url": "https://leekduck.com/events/max-mondays-2026-10-19/",
     "pokemon": [],
     "first_seen": "2026-10-20T23:32:04.719804+00:00"
+  },
+  {
+    "id": "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
+    "pokemon": [],
+    "first_seen": "2026-10-21T19:01:37.289499+00:00"
   }
 ]
