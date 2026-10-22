@@ -1139,5 +1139,17 @@
       }
     ],
     "first_seen": "2026-10-21T23:47:57.539639+00:00"
+  },
+  {
+    "id": "raidhour20261021",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Palkia Raid Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261021/",
+    "pokemon": [],
+    "first_seen": "2026-10-22T14:13:23.127043+00:00"
   }
 ]
