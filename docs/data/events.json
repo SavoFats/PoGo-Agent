@@ -557,60 +557,6 @@
     "first_seen": "2026-10-02T17:02:14.056852+00:00"
   },
   {
-    "id": "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/",
-    "pokemon": [
-      {
-        "name": "Thundurus (Incarnate)",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-08T00:34:31.391028+00:00"
-  },
-  {
-    "id": "mega-victreebel-in-mega-raids-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Victreebel in Mega Raids",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Victreebel",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-08T00:34:31.391028+00:00"
-  },
-  {
-    "id": "xerneas-in-5-star-raid-battles-september-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Xerneas in 5-star Raid Battles",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
-    "pokemon": [
-      {
-        "name": "Xerneas",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-08T00:34:31.391028+00:00"
-  },
-  {
     "id": "raidhour20261007",
     "source": "leekduck",
     "type": "in-game",
