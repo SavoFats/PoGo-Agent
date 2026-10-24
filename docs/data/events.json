@@ -210,24 +210,6 @@
     "first_seen": "2026-09-18T02:12:01.468246+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-10-22",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Morelull Spotlight Hour",
-    "start": "2026-10-22T18:00:00.000",
-    "end": "2026-10-22T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
-    "pokemon": [
-      {
-        "name": "Morelull",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
     "id": "max-mondays-2026-10-26",
     "source": "leekduck",
     "type": "in-game",
