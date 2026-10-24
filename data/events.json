@@ -1103,5 +1103,23 @@
     "url": "https://leekduck.com/events/raidhour20261021/",
     "pokemon": [],
     "first_seen": "2026-10-22T14:13:23.127043+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-10-22",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Morelull Spotlight Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+    "pokemon": [
+      {
+        "name": "Morelull",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-24T12:59:42.753052+00:00"
   }
 ]
