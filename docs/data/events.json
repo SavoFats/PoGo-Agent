@@ -1073,5 +1073,17 @@
       }
     ],
     "first_seen": "2026-10-24T12:59:42.753052+00:00"
+  },
+  {
+    "id": "minior-showers-orionids-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Minior Showers: Orionids 2026",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-26T08:16:21.411817+00:00"
   }
 ]
