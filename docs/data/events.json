@@ -467,18 +467,6 @@
     "first_seen": "2026-10-02T00:20:18.946739+00:00"
   },
   {
-    "id": "max-mondays-2026-10-12",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Rookidee during Max Monday",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-10-12/",
-    "pokemon": [],
-    "first_seen": "2026-10-13T20:25:40.735558+00:00"
-  },
-  {
     "id": "chandelure-super-mega-raid-day-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -1043,5 +1031,17 @@
     "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
     "pokemon": [],
     "first_seen": "2026-10-26T08:16:21.411817+00:00"
+  },
+  {
+    "id": "max-mondays-2026-10-26",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Sableye during Max Monday",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-26/",
+    "pokemon": [],
+    "first_seen": "2026-10-27T21:35:22.201466+00:00"
   }
 ]
