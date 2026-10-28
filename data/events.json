@@ -186,47 +186,6 @@
     "first_seen": "2026-09-10T02:06:55.312221+00:00"
   },
   {
-    "id": "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
-    "start": "2026-10-21T06:00:00.000",
-    "end": "2026-10-27T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Charizard X",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51.png",
-        "shiny": true
-      },
-      {
-        "name": "Mega Charizard Y",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
-    "id": "palkia-in-5-star-raid-battles-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Palkia in 5-star Raid Battles",
-    "start": "2026-10-21T06:00:00.000",
-    "end": "2026-10-27T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
-    "pokemon": [
-      {
-        "name": "Palkia",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
     "id": "raidhour20261028",
     "source": "leekduck",
     "type": "in-game",
@@ -465,18 +424,6 @@
     "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
     "pokemon": [],
     "first_seen": "2026-10-14T00:01:35.554127+00:00"
-  },
-  {
-    "id": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
-    "pokemon": [],
-    "first_seen": "2026-10-14T19:03:21.656137+00:00"
   },
   {
     "id": "into-the-wild-2026",
@@ -1019,5 +966,57 @@
     "url": "https://leekduck.com/events/max-mondays-2026-10-26/",
     "pokemon": [],
     "first_seen": "2026-10-27T21:35:22.201466+00:00"
+  },
+  {
+    "id": "gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-10-28T21:59:49.713468+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-11-19",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+    "start": "2026-11-19T18:00:00.000",
+    "end": "2026-11-19T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
+    "pokemon": [
+      {
+        "name": "Grookey",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+        "shiny": true
+      },
+      {
+        "name": "Scorbunny",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+        "shiny": true
+      },
+      {
+        "name": "Sobble",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-28T21:59:49.713468+00:00"
+  },
+  {
+    "id": "eternamax-eternatus-max-battles-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Eternamax Eternatus Returns",
+    "start": "2026-11-21T11:00:00.000",
+    "end": "2026-11-21T14:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
+    "pokemon": [],
+    "first_seen": "2026-10-28T21:59:49.713468+00:00"
   }
 ]
