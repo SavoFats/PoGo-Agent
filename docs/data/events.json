@@ -438,42 +438,6 @@
     "first_seen": "2026-10-14T23:32:23.164771+00:00"
   },
   {
-    "id": "mega-blastoise-in-mega-raids-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Mega Blastoise in Mega Raids",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/",
-    "pokemon": [
-      {
-        "name": "Mega Blastoise",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_51.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-15T02:22:34.910413+00:00"
-  },
-  {
-    "id": "yveltal-in-5-star-raid-battles-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Yveltal in 5-star Raid Battles",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/",
-    "pokemon": [
-      {
-        "name": "Yveltal",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-15T02:22:34.910413+00:00"
-  },
-  {
     "id": "raidhour20261014",
     "source": "leekduck",
     "type": "in-game",
@@ -1018,5 +982,46 @@
     "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
     "pokemon": [],
     "first_seen": "2026-10-28T21:59:49.713468+00:00"
+  },
+  {
+    "id": "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Charizard X",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51.png",
+        "shiny": true
+      },
+      {
+        "name": "Mega Charizard Y",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-29T03:30:22.355493+00:00"
+  },
+  {
+    "id": "palkia-in-5-star-raid-battles-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Palkia in 5-star Raid Battles",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
+    "pokemon": [
+      {
+        "name": "Palkia",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-10-29T03:30:22.355493+00:00"
   }
 ]
