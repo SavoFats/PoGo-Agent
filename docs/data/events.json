@@ -438,18 +438,6 @@
     "first_seen": "2026-10-14T23:32:23.164771+00:00"
   },
   {
-    "id": "raidhour20261014",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dialga Raid Hour",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/raidhour20261014/",
-    "pokemon": [],
-    "first_seen": "2026-10-15T18:45:49.914204+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-10-15",
     "source": "leekduck",
     "type": "in-game",
