@@ -438,24 +438,6 @@
     "first_seen": "2026-10-14T23:32:23.164771+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-10-15",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Stufful Spotlight Hour",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-15/",
-    "pokemon": [
-      {
-        "name": "Stufful",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-17T07:18:43.470426+00:00"
-  },
-  {
     "id": "pokemon-night-out-los-angeles-2026",
     "source": "leekduck",
     "type": "in-game",
