@@ -969,5 +969,17 @@
       }
     ],
     "first_seen": "2026-10-29T03:30:22.355493+00:00"
+  },
+  {
+    "id": "chandelure-super-mega-raid-day-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Chandelure Super Mega Raid Day",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-02T10:16:21.522186+00:00"
   }
 ]
