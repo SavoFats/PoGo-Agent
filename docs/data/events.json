@@ -402,18 +402,6 @@
     "first_seen": "2026-10-14T23:32:23.164771+00:00"
   },
   {
-    "id": "pokemon-night-out-los-angeles-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pokémon Night Out 2026 - Los Angeles",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-19T21:51:15.584967+00:00"
-  },
-  {
     "id": "max-mondays-2026-11-02",
     "source": "leekduck",
     "type": "in-game",
@@ -969,5 +957,17 @@
     "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
     "pokemon": [],
     "first_seen": "2026-11-02T10:16:21.522186+00:00"
+  },
+  {
+    "id": "halloween-2026-part-1",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon GO Halloween 2026 Part I",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/halloween-2026-part-1/",
+    "pokemon": [],
+    "first_seen": "2026-11-03T04:35:45.663612+00:00"
   }
 ]
