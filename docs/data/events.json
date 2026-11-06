@@ -885,5 +885,17 @@
     "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
     "pokemon": [],
     "first_seen": "2026-11-06T01:16:20.987710+00:00"
+  },
+  {
+    "id": "go-wild-area-gigantamax-machamp-power-up-timed-research",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "GO Wild Area: Gigantamax Machamp Power Up! Timed Research",
+    "start": "2026-11-06T10:00:00.000",
+    "end": "2026-11-15T23:59:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
+    "pokemon": [],
+    "first_seen": "2026-11-06T10:07:12.228911+00:00"
   }
 ]
