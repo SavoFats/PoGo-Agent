@@ -867,5 +867,35 @@
     "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
     "pokemon": [],
     "first_seen": "2026-11-06T10:07:12.228911+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-11-05",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Teddiursa wearing a witch hat Spotlight Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-05/",
+    "pokemon": [
+      {
+        "name": "Teddiursa wearing a witch hat",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-07T00:30:09.543283+00:00"
+  },
+  {
+    "id": "halloween-2026-part-2",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon GO Halloween 2026 Part II",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/halloween-2026-part-2/",
+    "pokemon": [],
+    "first_seen": "2026-11-07T00:30:09.543283+00:00"
   }
 ]
