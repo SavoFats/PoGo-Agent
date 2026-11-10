@@ -800,5 +800,215 @@
       }
     ],
     "first_seen": "2026-11-09T21:44:34.097673+00:00"
+  },
+  {
+    "id": "pokemon-go-wild-area-2026-sendai-japan",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "pokemon-go-wild-area-2026-mexico-city",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon GO Wild Area 2026: Mexico City",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "mega-sableye-in-mega-raids-october-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Sableye in Mega Raids",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Sableye",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "giratina-altered-forme-in-5-star-raid-battles-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Giratina (Altered Forme) in 5-star Raid Battles",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/giratina-altered-forme-in-5-star-raid-battles-november-2026/",
+    "pokemon": [
+      {
+        "name": "Giratina (Altered)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026/",
+    "pokemon": [
+      {
+        "name": "Tornadus (Incarnate)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11.png",
+        "shiny": false
+      }
+    ],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "max-battle-day-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Max Battle Day",
+    "start": "2026-12-05T14:00:00.000",
+    "end": "2026-12-05T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-battle-day-december-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "december-communityday2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "December Community Day",
+    "start": "2026-12-12T14:00:00.000",
+    "end": "2026-12-13T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/december-communityday2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "raid-day-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Raid Day",
+    "start": "2026-12-19T14:00:00.000",
+    "end": "2026-12-19T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raid-day-december-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "hatch-day-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Hatch Day",
+    "start": "2026-12-26T11:00:00.000",
+    "end": "2026-12-26T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/hatch-day-december-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "january-communitydayclassic2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "January Community Day Classic",
+    "start": "2027-01-02T14:00:00.000",
+    "end": "2027-01-02T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/january-communitydayclassic2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "super-mega-raid-day-january-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Super Mega Raid Day",
+    "start": "2027-01-09T14:00:00.000",
+    "end": "2027-01-09T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "january-communityday2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "January Community Day",
+    "start": "2027-01-16T14:00:00.000",
+    "end": "2027-01-16T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/january-communityday2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "max-battle-day-january-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Max Battle Day",
+    "start": "2027-01-23T14:00:00.000",
+    "end": "2027-01-23T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-battle-day-january-2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "super-mega-raid-day-january-30-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Super Mega Raid Day",
+    "start": "2027-01-30T14:00:00.000",
+    "end": "2027-01-30T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "february-communityday2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "February Community Day",
+    "start": "2027-02-06T14:00:00.000",
+    "end": "2027-02-06T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/february-communityday2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
+  },
+  {
+    "id": "raid-day-february-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Raid Day",
+    "start": "2027-02-13T14:00:00.000",
+    "end": "2027-02-13T17:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raid-day-february-2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-10T05:14:01.027366+00:00"
   }
 ]
