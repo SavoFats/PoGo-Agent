@@ -348,18 +348,6 @@
     "first_seen": "2026-10-19T21:51:15.584967+00:00"
   },
   {
-    "id": "pokemon-night-out-london-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pokémon Night Out 2026 - London",
-    "start": "2026-11-10T18:00:00.000Z",
-    "end": "2026-11-10T22:30:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-night-out-london-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-19T21:51:15.584967+00:00"
-  },
-  {
     "id": "max-mondays-2026-11-16",
     "source": "leekduck",
     "type": "in-game",
@@ -582,18 +570,6 @@
     "url": "https://leekduck.com/events/go-pass-november-2026/",
     "pokemon": [],
     "first_seen": "2026-10-20T18:49:25.370811+00:00"
-  },
-  {
-    "id": "max-mondays-2026-10-26",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Sableye during Max Monday",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-10-26/",
-    "pokemon": [],
-    "first_seen": "2026-10-27T21:35:22.201466+00:00"
   },
   {
     "id": "gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition",
