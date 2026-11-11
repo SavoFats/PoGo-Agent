@@ -126,18 +126,6 @@
     "first_seen": "2026-09-10T02:06:55.312221+00:00"
   },
   {
-    "id": "raidhour20261028",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Giratina (Origin Forme) Raid Hour",
-    "start": "2026-10-28T18:00:00.000",
-    "end": "2026-10-28T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/raidhour20261028/",
-    "pokemon": [],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-10-29",
     "source": "leekduck",
     "type": "in-game",
@@ -986,5 +974,17 @@
     "url": "https://leekduck.com/events/pokemon-night-out-london-2026/",
     "pokemon": [],
     "first_seen": "2026-11-11T13:12:02.025720+00:00"
+  },
+  {
+    "id": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+    "pokemon": [],
+    "first_seen": "2026-11-11T21:39:04.003985+00:00"
   }
 ]
