@@ -126,24 +126,6 @@
     "first_seen": "2026-09-10T02:06:55.312221+00:00"
   },
   {
-    "id": "pokemonspotlighthour2026-10-29",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Gastly Spotlight Hour",
-    "start": "2026-10-29T18:00:00.000",
-    "end": "2026-10-29T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
-    "pokemon": [
-      {
-        "name": "Gastly",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
     "id": "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026",
     "source": "leekduck",
     "type": "in-game",
