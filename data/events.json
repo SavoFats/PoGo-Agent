@@ -891,5 +891,17 @@
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
     "pokemon": [],
     "first_seen": "2026-11-11T21:39:04.003985+00:00"
+  },
+  {
+    "id": "into-the-wild-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Into the Wild 2026",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/into-the-wild-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-15T00:31:31.323706+00:00"
   }
 ]
