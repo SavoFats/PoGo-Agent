@@ -102,18 +102,6 @@
     "first_seen": "2026-09-01T08:06:28.916067+00:00"
   },
   {
-    "id": "pokemon-go-wild-area-2026-global",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "start": "2026-11-14T10:00:00.000",
-    "end": "2026-11-15T18:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-    "pokemon": [],
-    "first_seen": "2026-09-10T02:06:55.312221+00:00"
-  },
-  {
     "id": "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -270,22 +258,10 @@
     "first_seen": "2026-10-02T00:20:18.946739+00:00"
   },
   {
-    "id": "max-mondays-2026-11-02",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Machop during Max Monday",
-    "start": "2026-11-02T06:00:00.000",
-    "end": "2026-11-02T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-11-02/",
-    "pokemon": [],
-    "first_seen": "2026-10-19T21:51:15.584967+00:00"
-  },
-  {
     "id": "max-mondays-2026-11-16",
     "source": "leekduck",
     "type": "in-game",
-    "title": "Max Monday: Pokémon to be announced",
+    "title": "[Canceled] Max Monday",
     "start": "2026-11-16T06:00:00.000",
     "end": "2026-11-16T21:00:00.000",
     "location": "global",
@@ -586,8 +562,8 @@
     "source": "leekduck",
     "type": "in-game",
     "title": "GO Wild Area: Gigantamax Machamp Power Up! Timed Research",
-    "start": "2026-11-06T10:00:00.000",
-    "end": "2026-11-15T23:59:00.000",
+    "start": null,
+    "end": null,
     "location": "global",
     "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
     "pokemon": [],
