@@ -54,18 +54,6 @@
     "first_seen": "2026-08-25T18:24:05.979883+00:00"
   },
   {
-    "id": "gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
-    "start": "2026-10-27T21:00:00.000Z",
-    "end": "2026-11-03T21:00:00.000Z",
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
-    "pokemon": [],
-    "first_seen": "2026-09-01T08:06:28.916067+00:00"
-  },
-  {
     "id": "gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup",
     "source": "leekduck",
     "type": "in-game",
@@ -100,42 +88,6 @@
     "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
     "pokemon": [],
     "first_seen": "2026-09-01T08:06:28.916067+00:00"
-  },
-  {
-    "id": "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
-    "start": "2026-10-07T06:00:00.000",
-    "end": "2026-11-03T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
-    "pokemon": [
-      {
-        "name": "Landorus (Incarnate)",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
-  },
-  {
-    "id": "giratina-origin-forme-in-5-star-raid-battles-october-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Giratina (Origin Forme) in 5-star Raid Battles",
-    "start": "2026-10-28T06:00:00.000",
-    "end": "2026-11-03T22:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
-    "pokemon": [
-      {
-        "name": "Giratina (Origin)",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-09-18T02:12:01.468246+00:00"
   },
   {
     "id": "pokemon-go-tour-alola-kaohsiung-2027",
@@ -844,5 +796,17 @@
     "url": "https://leekduck.com/events/duolingo-timed-research-2026/",
     "pokemon": [],
     "first_seen": "2026-11-17T05:43:18.810365+00:00"
+  },
+  {
+    "id": "max-mondays-2026-11-16",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "[Canceled] Max Monday",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
+    "pokemon": [],
+    "first_seen": "2026-11-18T00:12:38.721448+00:00"
   }
 ]
