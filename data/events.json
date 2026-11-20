@@ -138,18 +138,6 @@
     "first_seen": "2026-09-24T13:54:04.434199+00:00"
   },
   {
-    "id": "minior-showers-leonids-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Minior Showers: Leonids 2026",
-    "start": "2026-11-14T17:00:00.000",
-    "end": "2026-11-19T23:59:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-02T00:20:18.946739+00:00"
-  },
-  {
     "id": "minior-showers-geminids-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -385,34 +373,6 @@
     "url": "https://leekduck.com/events/go-pass-november-2026/",
     "pokemon": [],
     "first_seen": "2026-10-20T18:49:25.370811+00:00"
-  },
-  {
-    "id": "pokemonspotlighthour2026-11-19",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Grookey, Scorbunny, and Sobble Spotlight Hour",
-    "start": "2026-11-19T18:00:00.000",
-    "end": "2026-11-19T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-    "pokemon": [
-      {
-        "name": "Grookey",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
-        "shiny": true
-      },
-      {
-        "name": "Scorbunny",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
-        "shiny": true
-      },
-      {
-        "name": "Sobble",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
-        "shiny": true
-      }
-    ],
-    "first_seen": "2026-10-28T21:59:49.713468+00:00"
   },
   {
     "id": "eternamax-eternatus-max-battles-2026",
@@ -772,5 +732,17 @@
     "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
     "pokemon": [],
     "first_seen": "2026-11-18T00:12:38.721448+00:00"
+  },
+  {
+    "id": "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Twitch Drops for 2027 Pokémon Latin America International Championships",
+    "start": "2026-11-20T12:00:00.000Z",
+    "end": "2026-11-22T23:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
+    "pokemon": [],
+    "first_seen": "2026-11-20T19:25:40.601367+00:00"
   }
 ]
