@@ -12,24 +12,6 @@
     "first_seen": "2026-06-25T21:28:02.639376+00:00"
   },
   {
-    "id": "november-communityday2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Pawniard Community Day",
-    "start": "2026-11-21T14:00:00.000",
-    "end": "2026-11-21T17:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/november-communityday2026/",
-    "pokemon": [
-      {
-        "name": "Pawniard",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
-        "shiny": false
-      }
-    ],
-    "first_seen": "2026-08-10T21:31:58.651459+00:00"
-  },
-  {
     "id": "super-mega-raid-day-november-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -373,18 +355,6 @@
     "url": "https://leekduck.com/events/go-pass-november-2026/",
     "pokemon": [],
     "first_seen": "2026-10-20T18:49:25.370811+00:00"
-  },
-  {
-    "id": "eternamax-eternatus-max-battles-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Eternamax Eternatus Returns",
-    "start": "2026-11-21T11:00:00.000",
-    "end": "2026-11-21T14:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-28T21:59:49.713468+00:00"
   },
   {
     "id": "clefable-super-mega-raid-day-2026",
