@@ -795,5 +795,35 @@
     "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
     "pokemon": [],
     "first_seen": "2026-11-21T01:52:44.951212+00:00"
+  },
+  {
+    "id": "eternamax-eternatus-max-battles-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Eternamax Eternatus Returns",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-22T18:49:52.654571+00:00"
+  },
+  {
+    "id": "november-communityday2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pawniard Community Day",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/november-communityday2026/",
+    "pokemon": [
+      {
+        "name": "Pawniard",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+        "shiny": false
+      }
+    ],
+    "first_seen": "2026-11-22T18:49:52.654571+00:00"
   }
 ]
