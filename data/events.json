@@ -168,30 +168,6 @@
     "first_seen": "2026-10-02T00:20:18.946739+00:00"
   },
   {
-    "id": "dynamax-trails-2026",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Trails",
-    "start": "2026-11-16T10:00:00.000",
-    "end": "2026-11-23T20:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/dynamax-trails-2026/",
-    "pokemon": [],
-    "first_seen": "2026-10-19T21:51:15.584967+00:00"
-  },
-  {
-    "id": "max-mondays-2026-11-23",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Dynamax Espurr during Max Monday",
-    "start": "2026-11-23T06:00:00.000",
-    "end": "2026-11-23T21:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-    "pokemon": [],
-    "first_seen": "2026-10-19T21:51:15.584967+00:00"
-  },
-  {
     "id": "cresselia-darkrai-in-5-star-raid-battles-november-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -724,5 +700,686 @@
       }
     ],
     "first_seen": "2026-11-22T18:49:52.654571+00:00"
+  },
+  {
+    "id": "raidhour20261202",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Regidrago Raid Hour",
+    "start": "2026-12-02T18:00:00.000",
+    "end": "2026-12-02T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261202/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-12-03",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Wimpod Spotlight Hour",
+    "start": "2026-12-03T18:00:00.000",
+    "end": "2026-12-03T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-03/",
+    "pokemon": [
+      {
+        "name": "Wimpod",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "tropical-paradise-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Tropical Paradise",
+    "start": "2026-12-01T10:00:00.000",
+    "end": "2026-12-07T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/tropical-paradise-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "max-mondays-2026-12-07",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Deino during Max Monday",
+    "start": "2026-12-07T06:00:00.000",
+    "end": "2026-12-07T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-07/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "start": "2026-12-01T21:00:00.000Z",
+    "end": "2026-12-08T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "mega-slowbro-in-mega-raids-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Slowbro in Mega Raids",
+    "start": "2026-12-02T06:00:00.000",
+    "end": "2026-12-08T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-slowbro-in-mega-raids-december-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Slowbro",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "regidrago-in-5-star-raid-battles-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Regidrago in 5-star Raid Battles",
+    "start": "2026-12-02T06:00:00.000",
+    "end": "2026-12-08T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2026/",
+    "pokemon": [
+      {
+        "name": "Regidrago",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "raidhour20261209",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Unannounced Raid Hour",
+    "start": "2026-12-09T18:00:00.000",
+    "end": "2026-12-09T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261209/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-12-10",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Starly Spotlight Hour",
+    "start": "2026-12-10T18:00:00.000",
+    "end": "2026-12-10T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-10/",
+    "pokemon": [
+      {
+        "name": "Starly",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "unannounced-event-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Unannounced Event",
+    "start": "2026-12-08T10:00:00.000",
+    "end": "2026-12-14T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/unannounced-event-december-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "max-mondays-2026-12-14",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Eevee during Max Monday",
+    "start": "2026-12-14T06:00:00.000",
+    "end": "2026-12-14T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-14/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
+    "start": "2026-12-08T21:00:00.000Z",
+    "end": "2026-12-15T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "mega-gengar-in-mega-raids-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Gengar in Mega Raids",
+    "start": "2026-12-09T06:00:00.000",
+    "end": "2026-12-15T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-gengar-in-mega-raids-december-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Gengar",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "unannounced-pokemon-in-5-star-raid-battles-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Unannounced Pokémon in 5-star Raid Battles",
+    "start": "2026-12-09T06:00:00.000",
+    "end": "2026-12-15T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "raidhour20261216",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Ho-Oh Raid Hour",
+    "start": "2026-12-16T18:00:00.000",
+    "end": "2026-12-16T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261216/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-12-17",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Bergmite Spotlight Hour",
+    "start": "2026-12-17T18:00:00.000",
+    "end": "2026-12-17T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-17/",
+    "pokemon": [
+      {
+        "name": "Bergmite",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "choose-your-path-daydream-destinations-2026-12-15",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Choose Your Path: Daydream Destinations (December 15, 2026)",
+    "start": "2026-12-15T10:00:00.000",
+    "end": "2026-12-21T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "max-mondays-2026-12-21",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Alolan Sandshrew during Max Monday",
+    "start": "2026-12-21T06:00:00.000",
+    "end": "2026-12-21T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-21/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "start": "2026-12-15T21:00:00.000Z",
+    "end": "2026-12-22T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "ho-oh-in-5-star-raid-battles-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Ho-Oh in 5-star Raid Battles",
+    "start": "2026-12-16T06:00:00.000",
+    "end": "2026-12-22T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/ho-oh-in-5-star-raid-battles-december-2026/",
+    "pokemon": [
+      {
+        "name": "Ho-Oh",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "mega-skarmory-in-mega-raids-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Skarmory in Mega Raids",
+    "start": "2026-12-16T06:00:00.000",
+    "end": "2026-12-22T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-skarmory-in-mega-raids-december-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Skarmory",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega%20Skarmory.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "raidhour20261223",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Lugia Raid Hour",
+    "start": "2026-12-23T18:00:00.000",
+    "end": "2026-12-23T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261223/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-12-24",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Delibird Spotlight Hour",
+    "start": "2026-12-24T18:00:00.000",
+    "end": "2026-12-24T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-24/",
+    "pokemon": [
+      {
+        "name": "Delibird",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "winter-holiday-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Winter Holiday 2026",
+    "start": "2026-12-22T10:00:00.000",
+    "end": "2026-12-28T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/winter-holiday-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "max-mondays-2026-12-28",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Dynamax Magikarp during Max Monday",
+    "start": "2026-12-28T06:00:00.000",
+    "end": "2026-12-28T21:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-28/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "start": "2026-12-22T21:00:00.000Z",
+    "end": "2026-12-29T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "lugia-in-5-star-raid-battles-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Lugia in 5-star Raid Battles",
+    "start": "2026-12-23T06:00:00.000",
+    "end": "2026-12-29T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/lugia-in-5-star-raid-battles-december-2026/",
+    "pokemon": [
+      {
+        "name": "Lugia",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_249_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "mega-glalie-in-mega-raids-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Glalie in Mega Raids",
+    "start": "2026-12-23T06:00:00.000",
+    "end": "2026-12-29T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Glalie",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "raidhour20261230",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) Raid Hour",
+    "start": "2026-12-30T18:00:00.000",
+    "end": "2026-12-30T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261230/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "pokemonspotlighthour2026-12-31",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Plusle and Minun Spotlight Hour",
+    "start": "2026-12-31T18:00:00.000",
+    "end": "2026-12-31T19:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-31/",
+    "pokemon": [
+      {
+        "name": "Plusle",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Minun",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_312_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "new-years-2027",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "New Year's 2027",
+    "start": "2026-12-29T10:00:00.000",
+    "end": "2027-01-04T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/new-years-2027/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "go-pass-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "GO Pass: December",
+    "start": "2026-12-01T10:00:00.000",
+    "end": "2027-01-05T10:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/go-pass-december-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "start": "2026-12-29T21:00:00.000Z",
+    "end": "2027-01-05T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "shadow-dialga-in-shadow-raids-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Shadow Dialga in Shadow Raids",
+    "start": "2026-12-02T06:00:00.000",
+    "end": "2027-01-05T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-december-2026/",
+    "pokemon": [
+      {
+        "name": "Dialga",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "mega-falinks-in-mega-raids-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Falinks in Mega Raids",
+    "start": "2026-12-30T06:00:00.000",
+    "end": "2027-01-05T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-falinks-in-mega-raids-december-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Falinks",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Tornadus, Thundurus, and Landorus (Therian Formes) in 5-star Raid Battles",
+    "start": "2026-12-30T06:00:00.000",
+    "end": "2027-01-05T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026/",
+    "pokemon": [
+      {
+        "name": "Tornadus (Therian)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_12.png",
+        "shiny": true
+      },
+      {
+        "name": "Thundurus (Therian)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_12.png",
+        "shiny": true
+      },
+      {
+        "name": "Landorus (Therian)",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_12.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
+    "start": "2027-01-05T21:00:00.000Z",
+    "end": "2027-01-12T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "choose-your-path-daydream-destinations-2027-01-12",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Choose Your Path: Daydream Destinations (January 12, 2027)",
+    "start": "2027-01-12T10:00:00.000",
+    "end": "2027-01-18T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
+    "start": "2027-01-12T21:00:00.000Z",
+    "end": "2027-01-19T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_master-league-mega-edition_master-league",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Master League: Mega Edition and Master League | Daydream Destinations",
+    "start": "2027-01-19T21:00:00.000Z",
+    "end": "2027-01-26T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_master-league/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "choose-your-path-daydream-destinations-2027-01-26",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+    "start": "2027-01-26T10:00:00.000",
+    "end": "2027-02-01T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "start": "2027-01-26T21:00:00.000Z",
+    "end": "2027-02-02T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_great-league-mega-edition_master-league",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition and Master League | Daydream Destinations",
+    "start": "2027-02-02T21:00:00.000Z",
+    "end": "2027-02-09T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_master-league/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "start": "2027-02-09T21:00:00.000Z",
+    "end": "2027-02-16T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "choose-your-path-daydream-destinations-2027-02-16",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+    "start": "2027-02-16T10:00:00.000",
+    "end": "2027-02-21T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "start": "2027-02-16T21:00:00.000Z",
+    "end": "2027-02-23T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "season-25-daydream-destinations",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Daydream Destinations",
+    "start": "2026-12-01T10:00:00.000",
+    "end": "2027-03-01T10:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/season-25-daydream-destinations/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition | Daydream Destinations",
+    "start": "2027-02-23T21:00:00.000Z",
+    "end": "2027-03-02T21:00:00.000Z",
+    "location": "global",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition/",
+    "pokemon": [],
+    "first_seen": "2026-11-25T03:52:05.255991+00:00"
   }
 ]
