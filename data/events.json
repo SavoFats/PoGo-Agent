@@ -168,18 +168,6 @@
     "first_seen": "2026-10-02T00:20:18.946739+00:00"
   },
   {
-    "id": "raidhour20261125",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
-    "start": "2026-11-25T18:00:00.000",
-    "end": "2026-11-25T19:00:00.000",
-    "location": "global",
-    "url": "https://leekduck.com/events/raidhour20261125/",
-    "pokemon": [],
-    "first_seen": "2026-10-19T21:51:15.584967+00:00"
-  },
-  {
     "id": "pokemonspotlighthour2026-11-26",
     "source": "leekduck",
     "type": "in-game",
