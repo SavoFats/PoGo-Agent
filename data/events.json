@@ -518,18 +518,6 @@
     "first_seen": "2026-11-10T05:14:01.027366+00:00"
   },
   {
-    "id": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3",
-    "source": "leekduck",
-    "type": "in-game",
-    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-    "start": null,
-    "end": null,
-    "location": "global",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
-    "pokemon": [],
-    "first_seen": "2026-11-11T21:39:04.003985+00:00"
-  },
-  {
     "id": "into-the-wild-2026",
     "source": "leekduck",
     "type": "in-game",
@@ -1339,5 +1327,100 @@
     "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition/",
     "pokemon": [],
     "first_seen": "2026-11-25T03:52:05.255991+00:00"
+  },
+  {
+    "id": "cresselia-darkrai-in-5-star-raid-battles-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Cresselia and Darkrai in 5-star Raid Battles",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-26T01:19:00.596572+00:00"
+  },
+  {
+    "id": "mega-banette-in-mega-raids-november-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Mega Banette in Mega Raids",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
+    "pokemon": [
+      {
+        "name": "Mega Banette",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-26T01:19:00.596572+00:00"
+  },
+  {
+    "id": "pokemon-champions-celebration-event-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon Champions Celebration Event 2026",
+    "start": "2026-12-08T10:00:00.000",
+    "end": "2026-12-14T20:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/",
+    "pokemon": [],
+    "first_seen": "2026-11-26T01:19:00.596572+00:00"
+  },
+  {
+    "id": "pokemon-champions-celebration-5-star-raid-battles-december-2026",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Pokémon Champions Celebration 5-star Raid Battles",
+    "start": "2026-12-09T06:00:00.000",
+    "end": "2026-12-15T22:00:00.000",
+    "location": "global",
+    "url": "https://leekduck.com/events/pokemon-champions-celebration-5-star-raid-battles-december-2026/",
+    "pokemon": [
+      {
+        "name": "Latias",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Latios",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Heatran",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_485_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Cobalion",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_638_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Terrakion",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_639_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Virizion",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00.png",
+        "shiny": true
+      },
+      {
+        "name": "Regieleki",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm894.icon.png",
+        "shiny": true
+      },
+      {
+        "name": "Regidrago",
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.icon.png",
+        "shiny": true
+      }
+    ],
+    "first_seen": "2026-11-26T01:19:00.596572+00:00"
   }
 ]
