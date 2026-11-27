@@ -1422,5 +1422,17 @@
     "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/",
     "pokemon": [],
     "first_seen": "2026-11-26T11:41:37.464457+00:00"
+  },
+  {
+    "id": "raidhour20261125",
+    "source": "leekduck",
+    "type": "in-game",
+    "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+    "start": null,
+    "end": null,
+    "location": "global",
+    "url": "https://leekduck.com/events/raidhour20261125/",
+    "pokemon": [],
+    "first_seen": "2026-11-27T03:22:16.646593+00:00"
   }
 ]
